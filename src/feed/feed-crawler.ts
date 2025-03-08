@@ -243,6 +243,22 @@ export class FeedCrawler {
         break;
     }
 
+    // Qiitaのフィードの場合、feedUrlからタグ情報を抽出して一意のリンクを生成
+    if (feedInfo.url.includes('qiita.com/tags/') && feedInfo.url.includes('/feed.atom')) {
+      const tag = FeedCrawler.extractTagFromQiitaFeedUrl(feedInfo.url);
+      if (tag) {
+        customFeed.link = `https://qiita.com/tags/${tag}`;
+      }
+    }
+
+    // Zennのフィードの場合、feedUrlからトピック情報を抽出して一意のリンクを生成
+    if (feedInfo.url.includes('zenn.dev/topics/') && feedInfo.url.includes('/feed')) {
+      const topic = FeedCrawler.extractTopicFromZennFeedUrl(feedInfo.url);
+      if (topic) {
+        customFeed.link = `https://zenn.dev/topics/${topic}`;
+      }
+    }
+
     if (!isValidHttpUrl(customFeed.link)) {
       logger.warn('取得したフィードのURLが正しくありません。 ', feedInfo.label, customFeed.link);
     }
@@ -272,6 +288,22 @@ export class FeedCrawler {
     }
 
     return customFeed;
+  }
+
+  /**
+   * QiitaのフィードURLからタグを抽出する
+   */
+  private static extractTagFromQiitaFeedUrl(feedUrl: string): string | null {
+    const match = feedUrl.match(/qiita\.com\/tags\/([^\/]+)\/feed\.atom/);
+    return match ? decodeURIComponent(match[1]) : null;
+  }
+
+  /**
+   * ZennのフィードURLからトピックを抽出する
+   */
+  private static extractTopicFromZennFeedUrl(feedUrl: string): string | null {
+    const match = feedUrl.match(/zenn\.dev\/topics\/([^\/]+)\/feed/);
+    return match ? decodeURIComponent(match[1]) : null;
   }
 
   private aggregateFeeds(feeds: CustomRssParserFeed[], aggregateFeedStartAt: Date) {
