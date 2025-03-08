@@ -303,3 +303,12 @@ storage/
 src/site/feeds/
 src/site/blog-feeds/
 repomix-output.xml
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+.venv/
