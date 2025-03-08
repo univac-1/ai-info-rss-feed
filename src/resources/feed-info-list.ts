@@ -36,6 +36,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Qiita（機械学習タグ）', 'https://qiita.com/tags/機械学習/feed'],
   ['Qiita（AIタグ）', 'https://qiita.com/tags/AI/feed'],
   ['Qiita（生成AIタグ）', 'https://qiita.com/tags/生成AI/feed'],
-  ['Qiita（DLタグ）', 'https://qiita.com/tags/DL/feed'],
+  ['Qiita（DLタグ）', 'https://qiita.com/tags/deeplearning/feed'],
   ['Qiita（LLMタグ）', 'https://qiita.com/tags/LLM/feed'],
 ]);
