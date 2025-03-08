@@ -1,0 +1,25 @@
+# フィード設定
+
+# メディア系
+media = [
+    "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"
+]
+
+# コミュニティ系 - Zenn
+zenn = [
+    "https://zenn.dev/topics/機械学習/feed",
+    "https://zenn.dev/topics/ai/feed",
+    "https://zenn.dev/topics/生成ai/feed",
+    "https://zenn.dev/topics/deeplearning/feed",
+    "https://zenn.dev/topics/llm/feed"
+]
+
+# コミュニティ系 - Qiita
+qiita = [
+    "http://qiita.com/tags/AI/feed.atom",
+    "http://qiita.com/tags/LLM/feed.atom",
+    "https://qiita.com/tags/機械学習/feed",
+    "https://qiita.com/tags/AI/feed",
+    "https://qiita.com/tags/生成AI/feed",
+    "https://qiita.com/tags/deeplearning/feed"
+]
