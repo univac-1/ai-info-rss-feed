@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://univac-1.github.io/ai-info-rss-feed/</id>
+    <title>AI関連情報RSS</title>
+    <updated>2026-10-24T16:29:20.638Z</updated>
+    <generator>univac-1/ai-info-rss-feed</generator>
+    <link rel="alternate" href="https://univac-1.github.io/ai-info-rss-feed/"/>
+    <link rel="self" href="https://univac-1.github.io/ai-info-rss-feed/feeds/atom.xml"/>
+    <subtitle>AI関連情報の更新をまとめたRSSフィード</subtitle>
+    <logo>https://univac-1.github.io/ai-info-rss-feed/images/icon.png</logo>
+    <icon>https://univac-1.github.io/ai-info-rss-feed/images/favicon.ico</icon>
+    <rights>univac-1/ai-info-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Claude CodeのSkillは作りすぎると腐る — 月次棚卸しで「残す・統合・捨てる」を決める基準 | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/fuji1009_REBELL/items/99f14c085dfe5767bd29</id>
+        <link href="https://qiita.com/fuji1009_REBELL/items/99f14c085dfe5767bd29"/>
+        <updated>2026-10-24T16:25:41.000Z</updated>
+        <summary type="html"><![CDATA[Skillを10個ほど作ったあたりで、私は「どれが今も使われているのか」を即答できなくなりました。作り方の記事は多いのですが、増えたあとの維持の話はあまり見かけません。この記事は、SaaSの棚卸しと同じ発想でSkillを月次で見直している私の基準と、その運用で気づいたことの...]]></summary>
+        <content type="html"><![CDATA[Skillを10個ほど作ったあたりで、私は「どれが今も使われているのか」を即答できなくなりました。作り方の記事は多いのですが、増えたあとの維持の話はあまり見かけません。この記事は、SaaSの棚卸しと同じ発想でSkillを月次で見直している私の基準と、その運用で気づいたことの...]]></content>
+        <published>2026-10-24T16:25:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2026年10月最新版】ChatGPT・Gemini・Claudeを徹底比較！GPT-6／Gemini 4／Claude 5.5、結局どれを選ぶ？ | 生成AIタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Ito_110/items/ee1730c9b1864692a0be</id>
+        <link href="https://qiita.com/Ito_110/items/ee1730c9b1864692a0be"/>
+        <updated>2026-10-24T16:18:19.000Z</updated>
+        <summary type="html"><![CDATA[確認日：2026年10月25日本記事はOpenAI・Google・Anthropicの公式情報を基に作成しています。モデル、利用上限、料金は頻繁に変わるため、契約・実装前に公式ページを確認してください。はじめに生成AIを使っていると、「ChatGPT、Gemin...]]></summary>
+        <content type="html"><![CDATA[確認日：2026年10月25日本記事はOpenAI・Google・Anthropicの公式情報を基に作成しています。モデル、利用上限、料金は頻繁に変わるため、契約・実装前に公式ページを確認してください。はじめに生成AIを使っていると、「ChatGPT、Gemin...]]></content>
+        <published>2026-10-24T16:18:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【環境構築】AI開発の基礎知識メモ　ニューラルネット・PyTorch・ONNXの関係を整理する | AIタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/yml024/items/4629e1314ce2f1d2fd17</id>
+        <link href="https://qiita.com/yml024/items/4629e1314ce2f1d2fd17"/>
+        <updated>2026-10-24T15:58:25.000Z</updated>
+        <summary type="html"><![CDATA[AI開発の基礎知識メモ ニューラルネット・PyTorch・ONNXの関係を整理するこのメモ書きは、音楽解析ツールを小さいVPS（メモリ512MB）で動かそうとした過程で出てきたAI関連の用語と仕組みを、基礎から整理したものである。机上の学習ではなく「なぜ本番環境で動か...]]></summary>
+        <content type="html"><![CDATA[AI開発の基礎知識メモ ニューラルネット・PyTorch・ONNXの関係を整理するこのメモ書きは、音楽解析ツールを小さいVPS（メモリ512MB）で動かそうとした過程で出てきたAI関連の用語と仕組みを、基礎から整理したものである。机上の学習ではなく「なぜ本番環境で動か...]]></content>
+        <published>2026-10-24T15:58:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 18 Proで読み込めるローカルLLMの選び方 — Off Grid AI | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/cdbk/articles/10e9f87577bb4a</id>
+        <link href="https://zenn.dev/cdbk/articles/10e9f87577bb4a"/>
+        <updated>2026-10-24T15:15:11.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は、notheme.me の元記事「iPhone 18 Pro と Off Grid AI で始めるローカルLLM — モデルの選び方、ファイル名の読み方、自分でインストールするときの注意点」を、Zenn で読みやすい分量に書き直したものです。ファイル名の読み方、自分でインストールするときの注意、アライメントの説明は、元記事に詳しく書いてあります。iPhone の中だけで文章生成AIを動]]></summary>
+        <content type="html"><![CDATA[!この記事は、notheme.me の元記事「iPhone 18 Pro と Off Grid AI で始めるローカルLLM — モデルの選び方、ファイル名の読み方、自分でインストールするときの注意点」を、Zenn で読みやすい分量に書き直したものです。ファイル名の読み方、自分でインストールするときの注意、アライメントの説明は、元記事に詳しく書いてあります。iPhone の中だけで文章生成AIを動かすローカルLLMは、メモリ 12GB の iPhone 18 Pro で実行できる選択肢になりました。この記事では、オープンソースのアプリ Off Grid AI を使う前提で、メモリに...]]></content>
+        <author>
+            <name>Kentaro Kitagawa</name>
+        </author>
+        <published>2026-10-24T15:15:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 18 Proで読み込めるローカルLLMの選び方 — Off Grid AI | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/cdbk/articles/10e9f87577bb4a</id>
+        <link href="https://zenn.dev/cdbk/articles/10e9f87577bb4a"/>
+        <updated>2026-10-24T15:15:11.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は、notheme.me の元記事「iPhone 18 Pro と Off Grid AI で始めるローカルLLM — モデルの選び方、ファイル名の読み方、自分でインストールするときの注意点」を、Zenn で読みやすい分量に書き直したものです。ファイル名の読み方、自分でインストールするときの注意、アライメントの説明は、元記事に詳しく書いてあります。iPhone の中だけで文章生成AIを動]]></summary>
+        <content type="html"><![CDATA[!この記事は、notheme.me の元記事「iPhone 18 Pro と Off Grid AI で始めるローカルLLM — モデルの選び方、ファイル名の読み方、自分でインストールするときの注意点」を、Zenn で読みやすい分量に書き直したものです。ファイル名の読み方、自分でインストールするときの注意、アライメントの説明は、元記事に詳しく書いてあります。iPhone の中だけで文章生成AIを動かすローカルLLMは、メモリ 12GB の iPhone 18 Pro で実行できる選択肢になりました。この記事では、オープンソースのアプリ Off Grid AI を使う前提で、メモリに...]]></content>
+        <author>
+            <name>Kentaro Kitagawa</name>
+        </author>
+        <published>2026-10-24T15:15:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人間がコードを書く時代は終わる | AIタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/sogenasano/items/53f85a23a6c83af61484</id>
+        <link href="https://qiita.com/sogenasano/items/53f85a23a6c83af61484"/>
+        <updated>2026-10-24T14:49:53.000Z</updated>
+        <summary type="html"><![CDATA[AI にコードを書かせるようになって、3年ほどが経った。最初はチャット欄にコードを貼る使い方だったが、その間に、自分の仕事のやり方はまるごと変わった。今は設計も実装もまず AI に任せ、自分はその理解に追いつく側に回っている。ここでいう AI は、チャットで質問に答えて...]]></summary>
+        <content type="html"><![CDATA[AI にコードを書かせるようになって、3年ほどが経った。最初はチャット欄にコードを貼る使い方だったが、その間に、自分の仕事のやり方はまるごと変わった。今は設計も実装もまず AI に任せ、自分はその理解に追いつく側に回っている。ここでいう AI は、チャットで質問に答えて...]]></content>
+        <published>2026-10-24T14:49:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来 | 生成AIタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/softbase/items/fb72de63c975fcbbd2f6</id>
+        <link href="https://qiita.com/softbase/items/fb72de63c975fcbbd2f6"/>
+        <updated>2026-10-24T14:42:12.000Z</updated>
+        <summary type="html"><![CDATA[AIはソフトウェア開発を効率化するだけなのか。それとも、ソフトウェアエンジニアリングという仕事そのものを根本から変えてしまうのか。2026年9月19日、ソフトウェアエンジニアの Thorsten Ball氏 が、X（旧Twitter）で「What I believe ab...]]></summary>
+        <content type="html"><![CDATA[AIはソフトウェア開発を効率化するだけなのか。それとも、ソフトウェアエンジニアリングという仕事そのものを根本から変えてしまうのか。2026年9月19日、ソフトウェアエンジニアの Thorsten Ball氏 が、X（旧Twitter）で「What I believe ab...]]></content>
+        <published>2026-10-24T14:42:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来 | AIタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/softbase/items/fb72de63c975fcbbd2f6</id>
+        <link href="https://qiita.com/softbase/items/fb72de63c975fcbbd2f6"/>
+        <updated>2026-10-24T14:42:12.000Z</updated>
+        <summary type="html"><![CDATA[AIはソフトウェア開発を効率化するだけなのか。それとも、ソフトウェアエンジニアリングという仕事そのものを根本から変えてしまうのか。2026年9月19日、ソフトウェアエンジニアの Thorsten Ball氏 が、X（旧Twitter）で「What I believe ab...]]></summary>
+        <content type="html"><![CDATA[AIはソフトウェア開発を効率化するだけなのか。それとも、ソフトウェアエンジニアリングという仕事そのものを根本から変えてしまうのか。2026年9月19日、ソフトウェアエンジニアの Thorsten Ball氏 が、X（旧Twitter）で「What I believe ab...]]></content>
+        <published>2026-10-24T14:42:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strata改で GLM-5.3-Flash (320B MoE) を NVIDIA RTX4060Ti/16GB ×2 + RAM 128GB で動かした件 | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/nabe2030/items/404240ab6b9171565c9d</id>
+        <link href="https://qiita.com/nabe2030/items/404240ab6b9171565c9d"/>
+        <updated>2026-10-24T14:13:56.000Z</updated>
+        <summary type="html"><![CDATA[0. 結論を先に動きました。 Qwen3.8-Flash-Next 専用の推論エンジン Strata の派生、Strata-GLM を Linux と GPU 2 枚に対応させ、320B の GLM-5.3-Flash（unsloth の UD-IQ4_XS、約 157...]]></summary>
+        <content type="html"><![CDATA[0. 結論を先に動きました。 Qwen3.8-Flash-Next 専用の推論エンジン Strata の派生、Strata-GLM を Linux と GPU 2 枚に対応させ、320B の GLM-5.3-Flash（unsloth の UD-IQ4_XS、約 157...]]></content>
+        <published>2026-10-24T14:13:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code から呼べるローカル音楽生成環境を作った（ACE-Step 1.5 + MCP + Apple Silicon） | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/lecto/articles/ed476dfd02913c</id>
+        <link href="https://zenn.dev/lecto/articles/ed476dfd02913c"/>
+        <updated>2026-10-24T14:10:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回の記事では、Claude Code から呼べるローカル画像生成環境を作りました。ゲームや動画の素材をローカルだけで作りたいので、次は BGM です。音楽生成モデルの ACE-Step 1.5 を使って、Claude Code に「子ども向けゲームのタイトル画面の BGM を、ループ用に作って」と頼むだけで曲ができる環境を作りました。Mac だけで動き、生成はすべてローカルです。30 秒]]></summary>
+        <content type="html"><![CDATA[はじめに前回の記事では、Claude Code から呼べるローカル画像生成環境を作りました。ゲームや動画の素材をローカルだけで作りたいので、次は BGM です。音楽生成モデルの ACE-Step 1.5 を使って、Claude Code に「子ども向けゲームのタイトル画面の BGM を、ループ用に作って」と頼むだけで曲ができる環境を作りました。Mac だけで動き、生成はすべてローカルです。30 秒の曲が約 9 秒でできます。実際に作った曲はこちらです（すべて AI 生成、MP3）。カフェ風のジャズピアノトリオ（26.8 秒）昼寝シーンのループ曲（22.0 秒、ルー...]]></content>
+        <author>
+            <name>tamoco</name>
+        </author>
+        <published>2026-10-24T14:10:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エージェントの記憶は「要約」ではなく「KVキャッシュの直接操作」で圧縮できるのか、135Mモデルで試した | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/matsushima_a/articles/day-025-akv-cache-drop-and-repos</id>
+        <link href="https://zenn.dev/matsushima_a/articles/day-025-akv-cache-drop-and-repos"/>
+        <updated>2026-10-24T14:08:23.000Z</updated>
+        <summary type="html"><![CDATA[これは何の話か海外AIネタ100日チャレンジDay 025。今回取り上げるのは清華大学・香港中文大学の論文「Cache Engineering for Agents」(HF Daily Papers、2026-10-21投稿、2026-10-22時点Daily Papers 4位・109 upvote)と、その公式実装AKV(Apache-2.0)だ。エージェントの会話履歴が伸びるほど、KVキャッ]]></summary>
+        <content type="html"><![CDATA[これは何の話か海外AIネタ100日チャレンジDay 025。今回取り上げるのは清華大学・香港中文大学の論文「Cache Engineering for Agents」(HF Daily Papers、2026-10-21投稿、2026-10-22時点Daily Papers 4位・109 upvote)と、その公式実装AKV(Apache-2.0)だ。エージェントの会話履歴が伸びるほど、KVキャッシュのI/O・保存コストが支配的になっていく。この問題への既存の答えは「履歴を要約してテキストとして圧縮する」というcontext engineeringだが、論文はこれを「要約はキ...]]></content>
+        <author>
+            <name>matsu</name>
+        </author>
+        <published>2026-10-24T14:08:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REQLOXの評価設計――未確定label・反復安定性・Sourceの追加価値をどう測るか | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/north_to_now/articles/reqlox-evaluation-design</id>
+        <link href="https://zenn.dev/north_to_now/articles/reqlox-evaluation-design"/>
+        <updated>2026-10-24T13:42:33.000Z</updated>
+        <summary type="html"><![CDATA[REQLOXでは、対応するPython構造と所有者要件を固定し、故障検出から修復候補の再注入・正常回帰までを検査している。その実装と実測結果は主記事にまとめた。本記事で扱うのは、原文の解釈から修復結果までの、各段階の評価をどう設計したかである。修復候補が固定条件を通ること、生成内容が原文に支えられること、外部知識を与えた寄与があることには、それぞれ別の証拠が必要になる。Sourceは障害報告などの]]></summary>
+        <content type="html"><![CDATA[REQLOXでは、対応するPython構造と所有者要件を固定し、故障検出から修復候補の再注入・正常回帰までを検査している。その実装と実測結果は主記事にまとめた。本記事で扱うのは、原文の解釈から修復結果までの、各段階の評価をどう設計したかである。修復候補が固定条件を通ること、生成内容が原文に支えられること、外部知識を与えた寄与があることには、それぞれ別の証拠が必要になる。Sourceは障害報告などの入力資料、Targetは検証対象のコードを指す。結果は2026年10月9〜21日JSTの保存記録に基づく。主な問いと現在地は次のとおりである。評価するもの必要な比較・根拠保存記録...]]></content>
+        <author>
+            <name>Yuki Murata</name>
+        </author>
+        <published>2026-10-24T13:42:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AI生成]GASスプレッドシートからJSONファイル文字列を作成するGASプログラム | AIタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/shizuoka_miyako_19911118/items/5f295b845f836f6e35fa</id>
+        <link href="https://qiita.com/shizuoka_miyako_19911118/items/5f295b845f836f6e35fa"/>
+        <updated>2026-10-24T13:30:46.000Z</updated>
+        <summary type="html"><![CDATA[AIに質問してGASスプレッドシートからJSONファイル文字列を作成するGASプログラムを作ってもらいました。GASプログラム内容// 1行目に見出し、次の行で値の順序function convertSheetToJson() {const sheet = Sp...]]></summary>
+        <content type="html"><![CDATA[AIに質問してGASスプレッドシートからJSONファイル文字列を作成するGASプログラムを作ってもらいました。GASプログラム内容// 1行目に見出し、次の行で値の順序function convertSheetToJson() {const sheet = Sp...]]></content>
+        <published>2026-10-24T13:30:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAGの検索トップ10が古い版の複製で埋まった — MinHash重複除去とメタデータフィルタの3層対策 | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/yukihayama/items/81dd499e91ef56572e25</id>
+        <link href="https://qiita.com/yukihayama/items/81dd499e91ef56572e25"/>
+        <updated>2026-10-24T13:04:03.000Z</updated>
+        <summary type="html"><![CDATA[RAGの回答が「昔の仕様」を答えるようになって調査したら、検索トップ10のうち8件が同じ文書の古い版でした。版更新のたびに「追加→埋め込み→保存」だけを続けて、古いベクトルを削っていなかったのが、私が1年前に踏んだ失敗の根本原因です。この記事では、問題を再現する完全スクリプ...]]></summary>
+        <content type="html"><![CDATA[RAGの回答が「昔の仕様」を答えるようになって調査したら、検索トップ10のうち8件が同じ文書の古い版でした。版更新のたびに「追加→埋め込み→保存」だけを続けて、古いベクトルを削っていなかったのが、私が1年前に踏んだ失敗の根本原因です。この記事では、問題を再現する完全スクリプ...]]></content>
+        <published>2026-10-24T13:04:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[廃止の判断は半年後に1行で読み返す — 再び保留に落ちた箱で誤りを拾う行 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/takumahayami/articles/eigyou-ai-haishi-hankigo-1gyou</id>
+        <link href="https://zenn.dev/takumahayami/articles/eigyou-ai-haishi-hankigo-1gyou"/>
+        <updated>2026-10-24T12:59:26.000Z</updated>
+        <summary type="html"><![CDATA[降格表の運用では、廃止にした箱の行も「廃止」の形で残り続けます。前回の保留箱は月1回の見直しで再開か廃止かでは、保留に置いた箱を1か月を超えて置かない基準で、再開か廃止かに1行で落としました。廃止は箱を表から消す処理ではありません。形の列を「廃止」に書き替えて、行を降格表に残します。残った行は、半年後に読み返すことで初めて意味を持ちます。今回は、廃止の判断を半年後に1行で読み返す扱いです。AI案に]]></summary>
+        <content type="html"><![CDATA[降格表の運用では、廃止にした箱の行も「廃止」の形で残り続けます。前回の保留箱は月1回の見直しで再開か廃止かでは、保留に置いた箱を1か月を超えて置かない基準で、再開か廃止かに1行で落としました。廃止は箱を表から消す処理ではありません。形の列を「廃止」に書き替えて、行を降格表に残します。残った行は、半年後に読み返すことで初めて意味を持ちます。今回は、廃止の判断を半年後に1行で読み返す扱いです。AI案に戻した箱が再び保留に落ちたとき、判断の誤りをどの行で拾うかを決めます。 1. 廃止の行は何を記録しているか廃止は判断の記録: 形の列が「廃止」、戻る基準の列に「廃止 2026-10」...]]></content>
+        <author>
+            <name>速水 拓真</name>
+        </author>
+        <published>2026-10-24T12:59:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[参考画像から編集可能な画像生成プロンプトを作る手順 — ImageToPromptsを使った実践 | 生成AIタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/jerry5678/items/addc155545080405ae47</id>
+        <link href="https://qiita.com/jerry5678/items/addc155545080405ae47"/>
+        <updated>2026-10-24T12:28:30.000Z</updated>
+        <summary type="html"><![CDATA[「この画像のような雰囲気で生成したい」と思っても、参考画像の特徴を文章にするのは意外と難しいものです。被写体だけを書いても、構図や光、色が抜けると、生成結果は大きく変わります。この記事では、参考画像を編集しやすいプロンプトの下書きに分解する手順を紹介します。例として、私が...]]></summary>
+        <content type="html"><![CDATA[「この画像のような雰囲気で生成したい」と思っても、参考画像の特徴を文章にするのは意外と難しいものです。被写体だけを書いても、構図や光、色が抜けると、生成結果は大きく変わります。この記事では、参考画像を編集しやすいプロンプトの下書きに分解する手順を紹介します。例として、私が...]]></content>
+        <published>2026-10-24T12:28:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeは質問する前に何トークン送っているのか：2025年7月から今週まで58バージョンを実測 | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/yunany90/items/c1b7aea0108d71e37d52</id>
+        <link href="https://qiita.com/yunany90/items/c1b7aea0108d71e37d52"/>
+        <updated>2026-10-24T12:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Claude Codeはリクエストのたびに、同じ固定のかたまりを先に送ります。システムプロンプトと、すべての組み込みツールの定義です。自分の入力が数えられる前にコストがかかり、短いセッションやサブエージェントで上限が思ったより早く減る理由の一つです。このかたまりがバージョン...]]></summary>
+        <content type="html"><![CDATA[Claude Codeはリクエストのたびに、同じ固定のかたまりを先に送ります。システムプロンプトと、すべての組み込みツールの定義です。自分の入力が数えられる前にコストがかかり、短いセッションやサブエージェントで上限が思ったより早く減る理由の一つです。このかたまりがバージョン...]]></content>
+        <published>2026-10-24T12:24:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeは質問する前に何トークン送っているのか：2025年7月から今週まで58バージョンを実測 | 生成AIタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/yunany90/items/c1b7aea0108d71e37d52</id>
+        <link href="https://qiita.com/yunany90/items/c1b7aea0108d71e37d52"/>
+        <updated>2026-10-24T12:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Claude Codeはリクエストのたびに、同じ固定のかたまりを先に送ります。システムプロンプトと、すべての組み込みツールの定義です。自分の入力が数えられる前にコストがかかり、短いセッションやサブエージェントで上限が思ったより早く減る理由の一つです。このかたまりがバージョン...]]></summary>
+        <content type="html"><![CDATA[Claude Codeはリクエストのたびに、同じ固定のかたまりを先に送ります。システムプロンプトと、すべての組み込みツールの定義です。自分の入力が数えられる前にコストがかかり、短いセッションやサブエージェントで上限が思ったより早く減る理由の一つです。このかたまりがバージョン...]]></content>
+        <published>2026-10-24T12:24:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローカルLLMの思考ログは長いほど正確なのか、Qwen3とMuse Glimmerに18回聞いて読んでみた | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/akari1106/articles/406cc075783742</id>
+        <link href="https://zenn.dev/akari1106/articles/406cc075783742"/>
+        <updated>2026-10-24T12:17:38.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は実測ログです。2つのローカルLLMに同じ質問を投げて、思考ログと回答をそのまま並べています。試行は各条件1回、追試をした4条件でも3回までなので、順位をつける記事ではなく、傾向を眺める記事として読んでください。思考ログ気になるというのを最近見かけたので、今回から抜粋系で一部書いてみました。 はじめにローカルで小さいモデルを動かしていると、回答より思考ログのほうが長い場面によく出会います]]></summary>
+        <content type="html"><![CDATA[!この記事は実測ログです。2つのローカルLLMに同じ質問を投げて、思考ログと回答をそのまま並べています。試行は各条件1回、追試をした4条件でも3回までなので、順位をつける記事ではなく、傾向を眺める記事として読んでください。思考ログ気になるというのを最近見かけたので、今回から抜粋系で一部書いてみました。 はじめにローカルで小さいモデルを動かしていると、回答より思考ログのほうが長い場面によく出会います。思考ログは、回答の前にモデルが書く下書きの部分で、Ollama では message.thinking として返ってきます。ユーザーが受け取る答えは数行なのに、その前に数千文字の英語...]]></content>
+        <author>
+            <name>灯里(akari)</name>
+        </author>
+        <published>2026-10-24T12:17:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LoRAで日本語FAQ対応モデルを追加学習する：データセット作成から評価まで | 機械学習タグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/aidocs/items/9e908352f0f9f4dc8a37</id>
+        <link href="https://qiita.com/aidocs/items/9e908352f0f9f4dc8a37"/>
+        <updated>2026-10-24T12:04:16.000Z</updated>
+        <summary type="html"><![CDATA[社内FAQや製品サポートの回答を、毎回プロンプトに大量に詰め込む方法には限界があります。回答形式や用語の使い方が安定しない場合は、既存の日本語チャットモデルにFAQの応答例を追加学習させる方法が有効です。この記事では、Qwen2.5-1.5B-InstructにLoRAを...]]></summary>
+        <content type="html"><![CDATA[社内FAQや製品サポートの回答を、毎回プロンプトに大量に詰め込む方法には限界があります。回答形式や用語の使い方が安定しない場合は、既存の日本語チャットモデルにFAQの応答例を追加学習させる方法が有効です。この記事では、Qwen2.5-1.5B-InstructにLoRAを...]]></content>
+        <published>2026-10-24T12:04:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeにハーネスを導入した — 不変条件はHookで強制する | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/pythona/articles/claude-code-harness-first-setup</id>
+        <link href="https://zenn.dev/pythona/articles/claude-code-harness-first-setup"/>
+        <updated>2026-10-24T11:59:53.000Z</updated>
+        <summary type="html"><![CDATA[「毎回同じ注意」を書くのに疲れた個人開発している運動記録アプリ FitLog(Expo / Supabase / Zustand / NativeWind / React Native Reusables)で、Claude Code を使い始めてしばらく経ったころ、同じ失敗が繰り返されることに気づきました。.env を平気で読みに行くExpo の管理下にある ios/ や android/ を直接]]></summary>
+        <content type="html"><![CDATA[「毎回同じ注意」を書くのに疲れた個人開発している運動記録アプリ FitLog(Expo / Supabase / Zustand / NativeWind / React Native Reusables)で、Claude Code を使い始めてしばらく経ったころ、同じ失敗が繰り返されることに気づきました。.env を平気で読みに行くExpo の管理下にある ios/ や android/ を直接書き換えようとするReusables で生成した components/ui/ の原本を改造してしまうそのたびにプロンプトへ「〜しないでください」を書き足していたのですが、注...]]></content>
+        <author>
+            <name>pythona</name>
+        </author>
+        <published>2026-10-24T11:59:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【実験】SQLインジェクションを教えて、とClaude CodeとCodexに頼んだら対応が違った | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/yskuue/articles/20261024_claude-codex-cyber-safeguards</id>
+        <link href="https://zenn.dev/yskuue/articles/20261024_claude-codex-cyber-safeguards"/>
+        <updated>2026-10-24T11:47:16.000Z</updated>
+        <summary type="html"><![CDATA[前置き普段Claude CodeやCodexを使って開発しているのですが、セキュリティに関する依頼をしていると、セーフガードで作業が止まることがあります。攻撃に悪用されるのを防ぐ仕組みは必要だと思う一方で、攻撃方法を学んだり、自社の脆弱性を調べたりするときにも止まると、なかなか難しいところです...。そこで気になったのが、同じ攻撃方法でも、教材として頼む場合と、診断スクリプトとして頼む場合で対応が]]></summary>
+        <content type="html"><![CDATA[前置き普段Claude CodeやCodexを使って開発しているのですが、セキュリティに関する依頼をしていると、セーフガードで作業が止まることがあります。攻撃に悪用されるのを防ぐ仕組みは必要だと思う一方で、攻撃方法を学んだり、自社の脆弱性を調べたりするときにも止まると、なかなか難しいところです...。そこで気になったのが、同じ攻撃方法でも、教材として頼む場合と、診断スクリプトとして頼む場合で対応が変わるのか？ また、Claude CodeとCodexで違いがあるのか？ ということです。私自身、攻撃者の目線でセキュリティを学べるゲーム「HAC-9」を作っているので、攻撃方法を学...]]></content>
+        <author>
+            <name>vppysk</name>
+        </author>
+        <published>2026-10-24T11:47:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[介護のご家族への連絡と面談、AIはどこまで任せられますか？ — 受け取る家族で決める | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/satoshimizuhara/articles/ai-agent-care-family-communication</id>
+        <link href="https://zenn.dev/satoshimizuhara/articles/ai-agent-care-family-communication"/>
+        <updated>2026-10-24T11:39:47.000Z</updated>
+        <summary type="html"><![CDATA[昨日は、ケア記録と申し送りの仕事で、介護の現場に寄せて読む1回目を書いた。本稿はその2回目で、昨日予告した通り、同じ介護の現場の、ご家族への連絡と面談の記録の仕事を置く。月次のご様子の連絡文のたたき台や面談日の日程調整、面談の議事メモの項目の整理は機械が速くそろえられる。しかし連絡文の1行は、同じ「事実」でも、受け取るご家族によって、まず聞きたいことと受け止め方が変わる仕事で、この境目の切り方に、]]></summary>
+        <content type="html"><![CDATA[昨日は、ケア記録と申し送りの仕事で、介護の現場に寄せて読む1回目を書いた。本稿はその2回目で、昨日予告した通り、同じ介護の現場の、ご家族への連絡と面談の記録の仕事を置く。月次のご様子の連絡文のたたき台や面談日の日程調整、面談の議事メモの項目の整理は機械が速くそろえられる。しかし連絡文の1行は、同じ「事実」でも、受け取るご家族によって、まず聞きたいことと受け止め方が変わる仕事で、この境目の切り方に、ご家族と現場の間に立つ介護の現場はつまずいている。ご家族への連絡とは、月々のご様子や体調の変化・事故の報告を、ご家族に渡す仕事のことだ。面談の記録とは、面談で交わした希望や約束を、ケア計画と現場...]]></content>
+        <author>
+            <name>水原聡</name>
+        </author>
+        <published>2026-10-24T11:39:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[claude -p の記録を足し上げたら合計が2通りできた。料金を言い当てられる行は1つだけ | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/numarn/articles/session-record-context-breakdown-handson</id>
+        <link href="https://zenn.dev/numarn/articles/session-record-context-breakdown-handson"/>
+        <updated>2026-10-24T11:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code のセッションを一覧にするアプリを作った人が、紹介文に「推定値の限界も書いた」と添えていたのが気になりました。アプリ本体とその解説は手元の環境から開けないので中身には触れません。代わりに、自分の手元でclaude -p(画面を開かず、コマンドとして AI に1回だけ仕事を頼む使い方)を11回走らせ、終わったあとディスクに残った記録だけを読んで、そこから何が組み直せるのかを調べ]]></summary>
+        <content type="html"><![CDATA[Claude Code のセッションを一覧にするアプリを作った人が、紹介文に「推定値の限界も書いた」と添えていたのが気になりました。アプリ本体とその解説は手元の環境から開けないので中身には触れません。代わりに、自分の手元でclaude -p(画面を開かず、コマンドとして AI に1回だけ仕事を頼む使い方)を11回走らせ、終わったあとディスクに残った記録だけを読んで、そこから何が組み直せるのかを調べました。分かったことを先に4つ書きます。いつ・どのフォルダで・何を頼んだかは、記録からほぼそのまま組み直せる。自動生成された見出しまで残っている。送った量の合計は、足し方によっ...]]></content>
+        <author>
+            <name>ぬまーんのZenn記事</name>
+        </author>
+        <published>2026-10-24T11:37:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[48万円の170HXは割安か？ DGX Spark・RTX PRO 6000と価格と性能を比べる | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/phpmyadmin/articles/glm53-hardware-price-performance</id>
+        <link href="https://zenn.dev/phpmyadmin/articles/glm53-hardware-price-performance"/>
+        <updated>2026-10-24T11:34:41.000Z</updated>
+        <summary type="html"><![CDATA[結論：自分で構築するGLM用マシンとしては割安改造済み170HXを1枚3,000 USDで確保し、自分で環境を構築・保守するなら、GLMを動かす導入予算としては割安と判断する。PC込みの仮予算は1枚68万円、2枚116万円で、今回参照したDGX SparkやRTX PRO構成より低い。特に2枚のTensorFoldは、同じclamp_range課題で約104 tok/sを記録し、Spark 2台の]]></summary>
+        <content type="html"><![CDATA[結論：自分で構築するGLM用マシンとしては割安改造済み170HXを1枚3,000 USDで確保し、自分で環境を構築・保守するなら、GLMを動かす導入予算としては割安と判断する。PC込みの仮予算は1枚68万円、2枚116万円で、今回参照したDGX SparkやRTX PRO構成より低い。特に2枚のTensorFoldは、同じclamp_range課題で約104 tok/sを記録し、Spark 2台の公開値約77 tok/sを上回った。ただし、この結果から「同じ品質の回答を最も安く得られる」とは断定できない。量子化、KV精度、回答長が異なり、1枚構成やRTX PROの参考値は課題も違...]]></content>
+        <author>
+            <name>toyoshi</name>
+        </author>
+        <published>2026-10-24T11:34:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[170HX 2枚のローカルLLM選び。生成速度とコードの完了を分けて比較する | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/phpmyadmin/articles/cmp170hx-model-selection</id>
+        <link href="https://zenn.dev/phpmyadmin/articles/cmp170hx-model-selection"/>
+        <updated>2026-10-24T11:34:41.000Z</updated>
+        <summary type="html"><![CDATA[結論：短文の生成速度だけではコーディング用モデルを選べないCMP 170HX 64GB×2・RAM128GBで、GLM、Qwen、DeepSeekを動かした。短いコード課題ではQwen W4A16・MTP3が約189 tok/sで生成した。一方、標準ベンチマークHumanEval+の合格数は151/164で、GLM Highの152/164を上回らなかった。この記事の目的は、この構成でモデルを選ぶ]]></summary>
+        <content type="html"><![CDATA[結論：短文の生成速度だけではコーディング用モデルを選べないCMP 170HX 64GB×2・RAM128GBで、GLM、Qwen、DeepSeekを動かした。短いコード課題ではQwen W4A16・MTP3が約189 tok/sで生成した。一方、標準ベンチマークHumanEval+の合格数は151/164で、GLM Highの152/164を上回らなかった。この記事の目的は、この構成でモデルを選ぶ際に、生成速度・テスト合格率・回答完了時間を分けて判断することである。GLMのエンジン選択は別記事で扱う。 標準問題の合格率と完了時間HumanEval+全164題に各1回答を生成...]]></content>
+        <author>
+            <name>toyoshi</name>
+        </author>
+        <published>2026-10-24T11:34:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[170HX 64GB 1枚とRAM128GBでGLMの200K入力を処理する | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/phpmyadmin/articles/cmp170hx-maya-long-context</id>
+        <link href="https://zenn.dev/phpmyadmin/articles/cmp170hx-maya-long-context"/>
+        <updated>2026-10-24T11:34:40.000Z</updated>
+        <summary type="html"><![CDATA[結論：1枚でも動くが、初回の長文入力には待ち時間があるCMP 170HX 64GB×1・RAM128GBで、Project Mayaを使ってGLM-5.3-Flash Maya-S24を動かした。合成入力204,800トークンから指定した値を取り出せた。入力処理に189.2秒かかった一方、約40Kの会話ではキャッシュを再利用した次の応答が約0.81秒で返った。この記事では、1枚構成で長い入力を扱え]]></summary>
+        <content type="html"><![CDATA[結論：1枚でも動くが、初回の長文入力には待ち時間があるCMP 170HX 64GB×1・RAM128GBで、Project Mayaを使ってGLM-5.3-Flash Maya-S24を動かした。合成入力204,800トークンから指定した値を取り出せた。入力処理に189.2秒かかった一方、約40Kの会話ではキャッシュを再利用した次の応答が約0.81秒で返った。この記事では、1枚構成で長い入力を扱えるかを確かめる。生成速度は別の短文試験で約37 tok/sだった。200Kを読んだ後に長いコードをその速度で生成したという結果ではない。 重みの一部をRAMに置くモデルの配布データ...]]></content>
+        <author>
+            <name>toyoshi</name>
+        </author>
+        <published>2026-10-24T11:34:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[170HX 2枚でGLMを常用する。TensorFold HighとExLlamaV3 Highの比較 | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/phpmyadmin/articles/cmp170hx-glm53-flash-maya</id>
+        <link href="https://zenn.dev/phpmyadmin/articles/cmp170hx-glm53-flash-maya"/>
+        <updated>2026-10-24T11:09:41.000Z</updated>
+        <summary type="html"><![CDATA[結論：32K以内はTensorFold High、長い入力はExLlamaV3CMP 170HX 64GB×2・RAM128GBでGLM-5.3-Flash EXL3 3.05bpwを動かし、普段のコーディング用にどのエンジンと設定を選ぶかを比べた。HumanEval+全164題では、思考強度Highの2構成がいずれも152問に合格し、TensorFoldは全問の生成時間を約45%短縮した。Hig]]></summary>
+        <content type="html"><![CDATA[結論：32K以内はTensorFold High、長い入力はExLlamaV3CMP 170HX 64GB×2・RAM128GBでGLM-5.3-Flash EXL3 3.05bpwを動かし、普段のコーディング用にどのエンジンと設定を選ぶかを比べた。HumanEval+全164題では、思考強度Highの2構成がいずれも152問に合格し、TensorFoldは全問の生成時間を約45%短縮した。Highでの比較ExLlamaV3 K5TensorFold K5HumanEval+合格数152/164（92.7%）152/164（92.7%）全問の生成時間...]]></content>
+        <author>
+            <name>toyoshi</name>
+        </author>
+        <published>2026-10-24T11:09:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excelの支払予定表でAIに任せるのは振り分けの式まで — 見送る金額は人間が決める | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/yoshitokinosita/articles/0024-excel-ai-shiharai-yotei</id>
+        <link href="https://zenn.dev/yoshitokinosita/articles/0024-excel-ai-shiharai-yotei"/>
+        <updated>2026-10-24T10:45:18.000Z</updated>
+        <summary type="html"><![CDATA[払う分を先に1枚に並べて、今月と翌月に振り分ける月末の入金側の表が済むと、次は同じ形の支払側の表が来ます。仕入先ごとの買掛残高を1枚に並べて、今月中に払う分と翌月に回す分に振り分ける。この1枚が支払予定表です。残額と支払期日と区分が並ぶだけの単純な表なのに、手で作ると行ごとに期日を数えて、約束を思い出して、振込の額を直すことになります。仕入先の件数が増えた月に、この地道さが響いてきます。前回は未回]]></summary>
+        <content type="html"><![CDATA[払う分を先に1枚に並べて、今月と翌月に振り分ける月末の入金側の表が済むと、次は同じ形の支払側の表が来ます。仕入先ごとの買掛残高を1枚に並べて、今月中に払う分と翌月に回す分に振り分ける。この1枚が支払予定表です。残額と支払期日と区分が並ぶだけの単純な表なのに、手で作ると行ごとに期日を数えて、約束を思い出して、振込の額を直すことになります。仕入先の件数が増えた月に、この地道さが響いてきます。前回は未回収リストを扱いました。今回は支払予定表を、同じ「Excel側の前準備 → AIへの依頼文 → 検算」の3段階で組みます。支払側でAIに任せるのは、残額と残日数を計算して今月払いと翌月払い...]]></content>
+        <author>
+            <name>木下 義人</name>
+        </author>
+        <published>2026-10-24T10:45:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIは何を考えているか（2026年10月版） | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/hrmstrsmgs/articles/104a82b8bb894c</id>
+        <link href="https://zenn.dev/hrmstrsmgs/articles/104a82b8bb894c"/>
+        <updated>2026-10-24T10:13:42.000Z</updated>
+        <summary type="html"><![CDATA[AIの気持ちを理解する 第1章 AIはどんな相手なのかAIは、コンピュータと言うにはあまりにも人間すぎ、人間と言うにはあまりにもアルゴリズムすぎます。 1.1 コンピュータではないAIを、これまでのコンピュータと同じ感覚で考えると、想像を超えるほど違う動きをします。AIは計算を間違えます。指示も忘れます。同じことを頼んでも、毎回答えが変わります。これまで「コンピュータなら当然できる」と考えていたこ]]></summary>
+        <content type="html"><![CDATA[AIの気持ちを理解する 第1章 AIはどんな相手なのかAIは、コンピュータと言うにはあまりにも人間すぎ、人間と言うにはあまりにもアルゴリズムすぎます。 1.1 コンピュータではないAIを、これまでのコンピュータと同じ感覚で考えると、想像を超えるほど違う動きをします。AIは計算を間違えます。指示も忘れます。同じことを頼んでも、毎回答えが変わります。これまで「コンピュータなら当然できる」と考えていたことさえ、AIは平然と失敗します。従来の「正確に、決められた通りに動くコンピュータ」という感覚では、AIの挙動をうまく理解できません。 1.2 人間として付き合うむしろ、A...]]></content>
+        <author>
+            <name>まりも</name>
+        </author>
+        <published>2026-10-24T10:13:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIは何を考えているか（2026年10月版） | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/hrmstrsmgs/articles/104a82b8bb894c</id>
+        <link href="https://zenn.dev/hrmstrsmgs/articles/104a82b8bb894c"/>
+        <updated>2026-10-24T10:13:42.000Z</updated>
+        <summary type="html"><![CDATA[AIの気持ちを理解する 第1章 AIはどんな相手なのかAIは、コンピュータと言うにはあまりにも人間すぎ、人間と言うにはあまりにもアルゴリズムすぎます。 1.1 コンピュータではないAIを、これまでのコンピュータと同じ感覚で考えると、想像を超えるほど違う動きをします。AIは計算を間違えます。指示も忘れます。同じことを頼んでも、毎回答えが変わります。これまで「コンピュータなら当然できる」と考えていたこ]]></summary>
+        <content type="html"><![CDATA[AIの気持ちを理解する 第1章 AIはどんな相手なのかAIは、コンピュータと言うにはあまりにも人間すぎ、人間と言うにはあまりにもアルゴリズムすぎます。 1.1 コンピュータではないAIを、これまでのコンピュータと同じ感覚で考えると、想像を超えるほど違う動きをします。AIは計算を間違えます。指示も忘れます。同じことを頼んでも、毎回答えが変わります。これまで「コンピュータなら当然できる」と考えていたことさえ、AIは平然と失敗します。従来の「正確に、決められた通りに動くコンピュータ」という感覚では、AIの挙動をうまく理解できません。 1.2 人間として付き合うむしろ、A...]]></content>
+        <author>
+            <name>まりも</name>
+        </author>
+        <published>2026-10-24T10:13:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIは何を考えているか（2026年10月版） | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/hrmstrsmgs/articles/104a82b8bb894c</id>
+        <link href="https://zenn.dev/hrmstrsmgs/articles/104a82b8bb894c"/>
+        <updated>2026-10-24T10:13:42.000Z</updated>
+        <summary type="html"><![CDATA[AIの気持ちを理解する 第1章 AIはどんな相手なのかAIは、コンピュータと言うにはあまりにも人間すぎ、人間と言うにはあまりにもアルゴリズムすぎます。 1.1 コンピュータではないAIを、これまでのコンピュータと同じ感覚で考えると、想像を超えるほど違う動きをします。AIは計算を間違えます。指示も忘れます。同じことを頼んでも、毎回答えが変わります。これまで「コンピュータなら当然できる」と考えていたこ]]></summary>
+        <content type="html"><![CDATA[AIの気持ちを理解する 第1章 AIはどんな相手なのかAIは、コンピュータと言うにはあまりにも人間すぎ、人間と言うにはあまりにもアルゴリズムすぎます。 1.1 コンピュータではないAIを、これまでのコンピュータと同じ感覚で考えると、想像を超えるほど違う動きをします。AIは計算を間違えます。指示も忘れます。同じことを頼んでも、毎回答えが変わります。これまで「コンピュータなら当然できる」と考えていたことさえ、AIは平然と失敗します。従来の「正確に、決められた通りに動くコンピュータ」という感覚では、AIの挙動をうまく理解できません。 1.2 人間として付き合うむしろ、A...]]></content>
+        <author>
+            <name>まりも</name>
+        </author>
+        <published>2026-10-24T10:13:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAGはAIの回答を安全にできるのか？ ― GroundednessとKnown Fact Matchingを検証する | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/kondonator/articles/4cec228d391022</id>
+        <link href="https://zenn.dev/kondonator/articles/4cec228d391022"/>
+        <updated>2026-10-24T10:06:59.000Z</updated>
+        <summary type="html"><![CDATA[はじめにAI Security Labでは、AIが生成する回答をそのまま信頼するのではなく、AIが誤ることを前提として、どのように検証・制御できるのかを実験しています。今回のテーマは、RAG（Retrieval-Augmented Generation）です。RAGを利用すると、LLMがKnowledge Baseから関連する情報を取得し、その情報を回答生成に利用できます。では、Knowledge]]></summary>
+        <content type="html"><![CDATA[はじめにAI Security Labでは、AIが生成する回答をそのまま信頼するのではなく、AIが誤ることを前提として、どのように検証・制御できるのかを実験しています。今回のテーマは、RAG（Retrieval-Augmented Generation）です。RAGを利用すると、LLMがKnowledge Baseから関連する情報を取得し、その情報を回答生成に利用できます。では、Knowledge Baseに正しい情報を登録しておけば、LLMはその情報だけを根拠として回答するのでしょうか。今回の実験では、まずRAGそのものが正常に動作することを確認しました。その後、Top...]]></content>
+        <author>
+            <name>kondonator</name>
+        </author>
+        <published>2026-10-24T10:06:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAGはAIの回答を安全にできるのか？ ― GroundednessとKnown Fact Matchingを検証する | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/kondonator/articles/4cec228d391022</id>
+        <link href="https://zenn.dev/kondonator/articles/4cec228d391022"/>
+        <updated>2026-10-24T10:06:59.000Z</updated>
+        <summary type="html"><![CDATA[はじめにAI Security Labでは、AIが生成する回答をそのまま信頼するのではなく、AIが誤ることを前提として、どのように検証・制御できるのかを実験しています。今回のテーマは、RAG（Retrieval-Augmented Generation）です。RAGを利用すると、LLMがKnowledge Baseから関連する情報を取得し、その情報を回答生成に利用できます。では、Knowledge]]></summary>
+        <content type="html"><![CDATA[はじめにAI Security Labでは、AIが生成する回答をそのまま信頼するのではなく、AIが誤ることを前提として、どのように検証・制御できるのかを実験しています。今回のテーマは、RAG（Retrieval-Augmented Generation）です。RAGを利用すると、LLMがKnowledge Baseから関連する情報を取得し、その情報を回答生成に利用できます。では、Knowledge Baseに正しい情報を登録しておけば、LLMはその情報だけを根拠として回答するのでしょうか。今回の実験では、まずRAGそのものが正常に動作することを確認しました。その後、Top...]]></content>
+        <author>
+            <name>kondonator</name>
+        </author>
+        <published>2026-10-24T10:06:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geminiの上限を回数ではなく計算量で捉え直した話 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/jworks_hq/articles/jworks-20261022-3b64b8e4</id>
+        <link href="https://zenn.dev/jworks_hq/articles/jworks-20261022-3b64b8e4"/>
+        <updated>2026-10-24T10:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Geminiの使用上限を調べるとき、まず気になるのは「あと何回使えるのか」です。AIサイトに公開した記事の内容を確認するため、Geminiの公式ヘルプを読み直したところ、上限は単純な利用回数ではなく、計算量を基準に決まると説明されていました。使うモデルや機能、プロンプトの複雑さ、チャットの長さによって、使用量は変わります。つまり、同じ回数だけ質問しても、内容や使い方によって上限への近づき方は異なり]]></summary>
+        <content type="html"><![CDATA[Geminiの使用上限を調べるとき、まず気になるのは「あと何回使えるのか」です。AIサイトに公開した記事の内容を確認するため、Geminiの公式ヘルプを読み直したところ、上限は単純な利用回数ではなく、計算量を基準に決まると説明されていました。使うモデルや機能、プロンプトの複雑さ、チャットの長さによって、使用量は変わります。つまり、同じ回数だけ質問しても、内容や使い方によって上限への近づき方は異なります。 上限はリクエスト数だけでは決まらない「何回使ったか」だけで利用状況を見ようとすると、上限に近づく条件を取り違える可能性があります。公式ヘルプによると、Geminiアプリの使用量は...]]></content>
+        <author>
+            <name>J-WORKS</name>
+        </author>
+        <published>2026-10-24T10:00:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geminiの上限を回数ではなく計算量で捉え直した話 | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/jworks_hq/articles/jworks-20261022-3b64b8e4</id>
+        <link href="https://zenn.dev/jworks_hq/articles/jworks-20261022-3b64b8e4"/>
+        <updated>2026-10-24T10:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Geminiの使用上限を調べるとき、まず気になるのは「あと何回使えるのか」です。AIサイトに公開した記事の内容を確認するため、Geminiの公式ヘルプを読み直したところ、上限は単純な利用回数ではなく、計算量を基準に決まると説明されていました。使うモデルや機能、プロンプトの複雑さ、チャットの長さによって、使用量は変わります。つまり、同じ回数だけ質問しても、内容や使い方によって上限への近づき方は異なり]]></summary>
+        <content type="html"><![CDATA[Geminiの使用上限を調べるとき、まず気になるのは「あと何回使えるのか」です。AIサイトに公開した記事の内容を確認するため、Geminiの公式ヘルプを読み直したところ、上限は単純な利用回数ではなく、計算量を基準に決まると説明されていました。使うモデルや機能、プロンプトの複雑さ、チャットの長さによって、使用量は変わります。つまり、同じ回数だけ質問しても、内容や使い方によって上限への近づき方は異なります。 上限はリクエスト数だけでは決まらない「何回使ったか」だけで利用状況を見ようとすると、上限に近づく条件を取り違える可能性があります。公式ヘルプによると、Geminiアプリの使用量は...]]></content>
+        <author>
+            <name>J-WORKS</name>
+        </author>
+        <published>2026-10-24T10:00:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラミングほぼ未経験だけど、AIを使ってiPhoneアプリを作ってみることにした | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/pirachan/articles/cb9723a602f2c8</id>
+        <link href="https://zenn.dev/pirachan/articles/cb9723a602f2c8"/>
+        <updated>2026-10-24T10:00:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめにはじめまして、pirachanです。こういった記事を書くにあたって、個人のバックグラウンドを少し書き連ねます。興味ない方は読み飛ばしてください。普段は情シス部門やシステム運用の仕事をしています。仕事でもプライベートでも、便利そうなツールを見つけるとついつい触ってしまうタイプです。最近はAIの進歩がすごく、この流れに乗り遅れまいと、業務外でもGeminiやChatGPTの有料プランを契約しま]]></summary>
+        <content type="html"><![CDATA[はじめにはじめまして、pirachanです。こういった記事を書くにあたって、個人のバックグラウンドを少し書き連ねます。興味ない方は読み飛ばしてください。普段は情シス部門やシステム運用の仕事をしています。仕事でもプライベートでも、便利そうなツールを見つけるとついつい触ってしまうタイプです。最近はAIの進歩がすごく、この流れに乗り遅れまいと、業務外でもGeminiやChatGPTの有料プランを契約しました。気軽に壁打ち相手になってもらったり、気になることをひたすら聞いたりしていました。そのうち、これからAIを使う機会が増えるなら、自分の情報や知識も参照してもらえるようにまと...]]></content>
+        <author>
+            <name>pirachan</name>
+        </author>
+        <published>2026-10-24T10:00:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ネットが燃えている――GMOの国家への要請と、守る側が不利なわけ | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/moimoi/articles/security-gmo-active-cyber-defense</id>
+        <link href="https://zenn.dev/moimoi/articles/security-gmo-active-cyber-defense"/>
+        <updated>2026-10-24T09:37:37.000Z</updated>
+        <summary type="html"><![CDATA[一緒に仕事をしている PHP に長けるシニア・エンジニアが昨日つぶやいた。「もうこれ、インターネット環境が破壊されているのと同じです……」大げさにも聞こえるが、彼は連日のように発生するセキュリティインシデントの調査に追われているようで、現場から出てきた言葉だと思うと、私も部外者ではないので笑ってもいられない。2026 年 10 月 24 日。GMO インターネットが政府に対して「能動的サイバー防御]]></summary>
+        <content type="html"><![CDATA[一緒に仕事をしている PHP に長けるシニア・エンジニアが昨日つぶやいた。「もうこれ、インターネット環境が破壊されているのと同じです……」大げさにも聞こえるが、彼は連日のように発生するセキュリティインシデントの調査に追われているようで、現場から出てきた言葉だと思うと、私も部外者ではないので笑ってもいられない。2026 年 10 月 24 日。GMO インターネットが政府に対して「能動的サイバー防御」の適用を緊急要請したというニュースが飛び込んできた。能動的サイバー防御の関連制度は、10 月 1 日に主要部分が施行されたばかりで、大きく次の 3 本柱となっている。柱内容...]]></content>
+        <author>
+            <name>やさい</name>
+        </author>
+        <published>2026-10-24T09:37:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ネットが燃えている――GMOの国家への要請と、守る側が不利なわけ | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/moimoi/articles/security-gmo-active-cyber-defense</id>
+        <link href="https://zenn.dev/moimoi/articles/security-gmo-active-cyber-defense"/>
+        <updated>2026-10-24T09:37:37.000Z</updated>
+        <summary type="html"><![CDATA[一緒に仕事をしている PHP に長けるシニア・エンジニアが昨日つぶやいた。「もうこれ、インターネット環境が破壊されているのと同じです……」大げさにも聞こえるが、彼は連日のように発生するセキュリティインシデントの調査に追われているようで、現場から出てきた言葉だと思うと、私も部外者ではないので笑ってもいられない。2026 年 10 月 24 日。GMO インターネットが政府に対して「能動的サイバー防御]]></summary>
+        <content type="html"><![CDATA[一緒に仕事をしている PHP に長けるシニア・エンジニアが昨日つぶやいた。「もうこれ、インターネット環境が破壊されているのと同じです……」大げさにも聞こえるが、彼は連日のように発生するセキュリティインシデントの調査に追われているようで、現場から出てきた言葉だと思うと、私も部外者ではないので笑ってもいられない。2026 年 10 月 24 日。GMO インターネットが政府に対して「能動的サイバー防御」の適用を緊急要請したというニュースが飛び込んできた。能動的サイバー防御の関連制度は、10 月 1 日に主要部分が施行されたばかりで、大きく次の 3 本柱となっている。柱内容...]]></content>
+        <author>
+            <name>やさい</name>
+        </author>
+        <published>2026-10-24T09:37:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Turnstileをすり抜けるフォーム営業を TypeSafe Jev で4択判定してスパム判定する(0.01円/通) | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/matsubokkuri/articles/2026-10-23-contact-form-spam-typesafe-jev</id>
+        <link href="https://zenn.dev/matsubokkuri/articles/2026-10-23-contact-form-spam-typesafe-jev"/>
+        <updated>2026-10-24T09:32:21.000Z</updated>
+        <summary type="html"><![CDATA[3秒まとめCloudflare Turnstile を入れても、人間やブラウザ自動化ツールが送ってくるフォーム営業は止まりませんTypeSafe の System One モデル Jev に「正当な問い合わせ / 営業 / 他社宛ての誤送信 / ゴミ」の4択で確率を出させ、営業+ゴミが 0.8 以上なら件名に [SPAM] を付けて送信し、StopForumSpam に自動報告するようにしました過]]></summary>
+        <content type="html"><![CDATA[3秒まとめCloudflare Turnstile を入れても、人間やブラウザ自動化ツールが送ってくるフォーム営業は止まりませんTypeSafe の System One モデル Jev に「正当な問い合わせ / 営業 / 他社宛ての誤送信 / ゴミ」の4択で確率を出させ、営業+ゴミが 0.8 以上なら件名に [SPAM] を付けて送信し、StopForumSpam に自動報告するようにしました過去の問い合わせ 181 件で検証して、営業は全部 0.94 以上、正当な問い合わせは全部 0.35 以下に分かれました判定コストは1回あたり 0.01〜0.04 円程度（推定）...]]></content>
+        <author>
+            <name>Matsukura Yuki</name>
+        </author>
+        <published>2026-10-24T09:32:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MHAってなんだ？ — 8つの頭に分ける理由と、PyTorchで黙って壊れる3つの罠 | 機械学習タグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/GeneLab_999/items/da172b649bdd690e8420</id>
+        <link href="https://qiita.com/GeneLab_999/items/da172b649bdd690e8420"/>
+        <updated>2026-10-24T09:32:11.000Z</updated>
+        <summary type="html"><![CDATA[この記事で決められること読み終えたあと、num_heads をいくつにするかと、nn.MultiheadAttention を結果を壊さずに呼ぶための3つの設定を、自分のコードで決められるようになります。対象読者PyTorchで nn.Linear や nn.M...]]></summary>
+        <content type="html"><![CDATA[この記事で決められること読み終えたあと、num_heads をいくつにするかと、nn.MultiheadAttention を結果を壊さずに呼ぶための3つの設定を、自分のコードで決められるようになります。対象読者PyTorchで nn.Linear や nn.M...]]></content>
+        <published>2026-10-24T09:32:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Usutakuさんに学ぶ技術発信のコツ | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/th_tech/articles/59369fbd0e071d</id>
+        <link href="https://zenn.dev/th_tech/articles/59369fbd0e071d"/>
+        <updated>2026-10-24T09:21:29.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめにエンジニアがブログを書くことには、メリットがたくさんあるはずです。こにふぁーさんという長年ブログを書かれている方も、そう言っていたので間違っていないはずです。https://open.spotify.com/episode/4guZPAaRZmiOBDTXLlkOHb?si=3Vm0nXpXSlCHhz3OAUreogたとえば、自分の感じるところでいうと、こんな感じのメリットがありま]]></summary>
+        <content type="html"><![CDATA[1. はじめにエンジニアがブログを書くことには、メリットがたくさんあるはずです。こにふぁーさんという長年ブログを書かれている方も、そう言っていたので間違っていないはずです。https://open.spotify.com/episode/4guZPAaRZmiOBDTXLlkOHb?si=3Vm0nXpXSlCHhz3OAUreogたとえば、自分の感じるところでいうと、こんな感じのメリットがあります。「人に伝える」練習になるアウトプットがあるとインプットがはかどる自分の認知を広げられるなにより、誰かのためになるでも、技術的な発信って難しいですよね、、「題材選び」か...]]></content>
+        <author>
+            <name>T.Hashimoto</name>
+        </author>
+        <published>2026-10-24T09:21:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QD-Recは推薦理由をどう育てる？米国株で探索・転用・入れ替えを観察してみた | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/sunyeul89/articles/qd-rec-stock-ideas</id>
+        <link href="https://zenn.dev/sunyeul89/articles/qd-rec-stock-ideas"/>
+        <updated>2026-10-24T09:14:09.000Z</updated>
+        <summary type="html"><![CDATA[はじめにLLMに「おすすめの株」を聞くと、もっともらしい理由が返ってきます。ただ、その理由だけでは、ほかにどんな候補を検討したのか、似た話ばかり集まっていないかは分かりません。Sakana AIのQD-Recは、候補と推薦理由をセットにして、質と多様性の両方を考えながら蓄積する手法です。これを米国株に当てはめて、「銘柄＋投資論理」のアーカイブを作ってみました。今回見えたのは、広い銘柄探索と、別の銘]]></summary>
+        <content type="html"><![CDATA[はじめにLLMに「おすすめの株」を聞くと、もっともらしい理由が返ってきます。ただ、その理由だけでは、ほかにどんな候補を検討したのか、似た話ばかり集まっていないかは分かりません。Sakana AIのQD-Recは、候補と推薦理由をセットにして、質と多様性の両方を考えながら蓄積する手法です。これを米国株に当てはめて、「銘柄＋投資論理」のアーカイブを作ってみました。今回見えたのは、広い銘柄探索と、別の銘柄へ投資論理を転用する動きでした。 残ったアイデアの収益源も、比較手法より均等に近い分布になっています。ただし、リターンの優位性や審査点の予測力は確認できませんでした。対象は2026...]]></content>
+        <author>
+            <name>ジュン</name>
+        </author>
+        <published>2026-10-24T09:14:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エージェントに鍵を渡さない設計 ── Meta Muse の技術スタックを公開資料から読む | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/kentaro36/articles/muse-secure-vm-architecture</id>
+        <link href="https://zenn.dev/kentaro36/articles/muse-secure-vm-architecture"/>
+        <updated>2026-10-24T09:11:47.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントにメールやカレンダー、買い物を任せようとすると、すぐに一つの問題にぶつかります。エージェントが仕事をするには資格情報が要るのに、資格情報を持たせたエージェントがだまされると、その資格情報ごと持っていかれる、という問題です。セキュリティ研究者の Simon Willison は、この条件がそろった状態を "lethal trifecta"（致命的な三要素）と呼んでいます。個人データへ]]></summary>
+        <content type="html"><![CDATA[AIエージェントにメールやカレンダー、買い物を任せようとすると、すぐに一つの問題にぶつかります。エージェントが仕事をするには資格情報が要るのに、資格情報を持たせたエージェントがだまされると、その資格情報ごと持っていかれる、という問題です。セキュリティ研究者の Simon Willison は、この条件がそろった状態を "lethal trifecta"（致命的な三要素）と呼んでいます。個人データへのアクセスがある信頼できないコンテンツ（Webページ、メール、ファイル）に触れる外部へ通信できるMeta が 2026年9月8日に米国で公開した個人向けAIエージェント Muse ...]]></content>
+        <author>
+            <name>SeaOtter (Kentaro Mori)</name>
+        </author>
+        <published>2026-10-24T09:11:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エージェントに鍵を渡さない設計 ── Meta Muse の技術スタックを公開資料から読む | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/kentaro36/articles/muse-secure-vm-architecture</id>
+        <link href="https://zenn.dev/kentaro36/articles/muse-secure-vm-architecture"/>
+        <updated>2026-10-24T09:11:47.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントにメールやカレンダー、買い物を任せようとすると、すぐに一つの問題にぶつかります。エージェントが仕事をするには資格情報が要るのに、資格情報を持たせたエージェントがだまされると、その資格情報ごと持っていかれる、という問題です。セキュリティ研究者の Simon Willison は、この条件がそろった状態を "lethal trifecta"（致命的な三要素）と呼んでいます。個人データへ]]></summary>
+        <content type="html"><![CDATA[AIエージェントにメールやカレンダー、買い物を任せようとすると、すぐに一つの問題にぶつかります。エージェントが仕事をするには資格情報が要るのに、資格情報を持たせたエージェントがだまされると、その資格情報ごと持っていかれる、という問題です。セキュリティ研究者の Simon Willison は、この条件がそろった状態を "lethal trifecta"（致命的な三要素）と呼んでいます。個人データへのアクセスがある信頼できないコンテンツ（Webページ、メール、ファイル）に触れる外部へ通信できるMeta が 2026年9月8日に米国で公開した個人向けAIエージェント Muse ...]]></content>
+        <author>
+            <name>SeaOtter (Kentaro Mori)</name>
+        </author>
+        <published>2026-10-24T09:11:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code にテストを渡しても差はゼロだった。作者の「最重要のコツ」を 72 回試してわかった効く条件 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/kakushigoto/articles/claude-code-verification-loop</id>
+        <link href="https://zenn.dev/kakushigoto/articles/claude-code-verification-loop"/>
+        <updated>2026-10-24T08:57:48.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code の作者 Boris Cherny さんは、Claude Code でいい結果を出すための「おそらくいちばん大事なこと」として、Claude に自分の仕事を確かめる手段を渡すことを挙げています（本人の X の投稿、2026-01-02）。では、わざわざテストを書いて Claude に渡す必要はあるのでしょうか。Claude Code（Sonnet）で、テストを渡す・渡さないを]]></summary>
+        <content type="html"><![CDATA[Claude Code の作者 Boris Cherny さんは、Claude Code でいい結果を出すための「おそらくいちばん大事なこと」として、Claude に自分の仕事を確かめる手段を渡すことを挙げています（本人の X の投稿、2026-01-02）。では、わざわざテストを書いて Claude に渡す必要はあるのでしょうか。Claude Code（Sonnet）で、テストを渡す・渡さないを 72 回比べました。 結論小さな課題で仕様が書いてあれば、テストは要りませんでした。テストを渡しても差はゼロで、効いたのは「仕様がテストにしかない」ときだけでした。仕様が課題文や...]]></content>
+        <author>
+            <name>かくしごと</name>
+        </author>
+        <published>2026-10-24T08:57:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kimi K3.1 Pro は Claude Opus 5.5 や GPT-6 Astra にどこまで迫ったのか | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/takuh/articles/ae8acd637de455</id>
+        <link href="https://zenn.dev/takuh/articles/ae8acd637de455"/>
+        <updated>2026-10-24T08:48:46.000Z</updated>
+        <summary type="html"><![CDATA[はじめに：重みが配られるモデルが、最上位の表に入ってきた2026年10月23日、中国の Moonshot AI が新しいモデル Kimi K3.1 Pro と、その高速版 Kimi K3.1 Pro Highspeed を公開しました。発表の目玉は、コーディングエージェントの代表的なベンチマーク Terminal-Bench 4.0 で 65.7% と、GPT-6 Astra（58.2%）を上回り]]></summary>
+        <content type="html"><![CDATA[はじめに：重みが配られるモデルが、最上位の表に入ってきた2026年10月23日、中国の Moonshot AI が新しいモデル Kimi K3.1 Pro と、その高速版 Kimi K3.1 Pro Highspeed を公開しました。発表の目玉は、コーディングエージェントの代表的なベンチマーク Terminal-Bench 4.0 で 65.7% と、GPT-6 Astra（58.2%）を上回り、Claude Opus 5.5（66.4%）に迫ったという数字です。しかも 11月4日までにモデルの重み（学習済みのパラメータそのもの）を公開する予定です。ここ数年、「重みが公開され...]]></content>
+        <author>
+            <name>takuh</name>
+        </author>
+        <published>2026-10-24T08:48:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kimi K3.1 Pro は Claude Opus 5.5 や GPT-6 Astra にどこまで迫ったのか | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/takuh/articles/ae8acd637de455</id>
+        <link href="https://zenn.dev/takuh/articles/ae8acd637de455"/>
+        <updated>2026-10-24T08:48:46.000Z</updated>
+        <summary type="html"><![CDATA[はじめに：重みが配られるモデルが、最上位の表に入ってきた2026年10月23日、中国の Moonshot AI が新しいモデル Kimi K3.1 Pro と、その高速版 Kimi K3.1 Pro Highspeed を公開しました。発表の目玉は、コーディングエージェントの代表的なベンチマーク Terminal-Bench 4.0 で 65.7% と、GPT-6 Astra（58.2%）を上回り]]></summary>
+        <content type="html"><![CDATA[はじめに：重みが配られるモデルが、最上位の表に入ってきた2026年10月23日、中国の Moonshot AI が新しいモデル Kimi K3.1 Pro と、その高速版 Kimi K3.1 Pro Highspeed を公開しました。発表の目玉は、コーディングエージェントの代表的なベンチマーク Terminal-Bench 4.0 で 65.7% と、GPT-6 Astra（58.2%）を上回り、Claude Opus 5.5（66.4%）に迫ったという数字です。しかも 11月4日までにモデルの重み（学習済みのパラメータそのもの）を公開する予定です。ここ数年、「重みが公開され...]]></content>
+        <author>
+            <name>takuh</name>
+        </author>
+        <published>2026-10-24T08:48:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 8/9は11月10日でサポート終了、.NET 11は同日GA — AIと走り切った移行メモ | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/jodycraft/articles/dotnet8-eol-dotnet11-ga-migration</id>
+        <link href="https://zenn.dev/jodycraft/articles/dotnet8-eol-dotnet11-ga-migration"/>
+        <updated>2026-10-24T08:41:54.000Z</updated>
+        <summary type="html"><![CDATA[!📋 この記事の前提対象は「.NET 8（または9）で動いている業務アプリを持っていて、2026年11月10日のサポート終了が気になっている人」です内容は4つです。(1) 11月10日に何が起きるか（公式の期限）、(2) .NET 11 / C# 15で実務に関係する変更、(3) 自宅PCでRC2を実際に動かした実測、(4) 会社の.NET 8→10移行をAIと進めた実務メモ数字は公式ドキュメント]]></summary>
+        <content type="html"><![CDATA[!📋 この記事の前提対象は「.NET 8（または9）で動いている業務アプリを持っていて、2026年11月10日のサポート終了が気になっている人」です内容は4つです。(1) 11月10日に何が起きるか（公式の期限）、(2) .NET 11 / C# 15で実務に関係する変更、(3) 自宅PCでRC2を実際に動かした実測、(4) 会社の.NET 8→10移行をAIと進めた実務メモ数字は公式ドキュメント（出典つき）と、手元の実測（2026年10月24日・WSL2 / Celeron N5095A）です言語機能の差分（C# 13〜15）は、先に書いたこちらの記事にまとめています。今回...]]></content>
+        <author>
+            <name>JodyCraft</name>
+        </author>
+        <published>2026-10-24T08:41:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code を確認なしで動かす前に。Windows で「消される」を止める hook と114個のテスト | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/extrahand_co_ai/articles/3df3d61df8a346</id>
+        <link href="https://zenn.dev/extrahand_co_ai/articles/3df3d61df8a346"/>
+        <updated>2026-10-24T08:38:53.000Z</updated>
+        <summary type="html"><![CDATA[この記事は AI（Claude）が書き、人間が確認してから公開しています。 はじめにClaude Code には、確認なしでコマンドを実行するモード（Bypass permissions）があります。作業は速くなりますが、AI が判断を誤ったときに止める場面もなくなります。私たちは「AI（Claude）に事業を任せて、人間は見守る」という挑戦をしていて、毎日 Claude Code に長い作業を任]]></summary>
+        <content type="html"><![CDATA[この記事は AI（Claude）が書き、人間が確認してから公開しています。 はじめにClaude Code には、確認なしでコマンドを実行するモード（Bypass permissions）があります。作業は速くなりますが、AI が判断を誤ったときに止める場面もなくなります。私たちは「AI（Claude）に事業を任せて、人間は見守る」という挑戦をしていて、毎日 Claude Code に長い作業を任せています。そこで、確認なしでも「元に戻せない操作」だけは止める PreToolUse hook を、Windows（PowerShell 5.1）向けに作りました。この記事では、...]]></content>
+        <author>
+            <name>Extra Hand</name>
+        </author>
+        <published>2026-10-24T08:38:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI への頼み方、上達してる？ Claude Code の会話記録から自分の指示だけを集めたら9日で約190件あった | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/extrahand_co_ai/articles/2e7fd8d3deacd2</id>
+        <link href="https://zenn.dev/extrahand_co_ai/articles/2e7fd8d3deacd2"/>
+        <updated>2026-10-24T08:20:17.000Z</updated>
+        <summary type="html"><![CDATA[この記事は AI（Claude）が書き、人間が確認してから公開しています。 はじめに私たちは「AI（Claude）に事業を任せて、人間は見守る」という挑戦をしています。人間のオーナーは毎日、Claude Code にたくさんの指示を出しています。あるとき、オーナーからこう頼まれました。「AI を使う技術を上げるために、指示の内容を全部残しておきたい」。AI への頼み方は、うまくなっているのかどうか]]></summary>
+        <content type="html"><![CDATA[この記事は AI（Claude）が書き、人間が確認してから公開しています。 はじめに私たちは「AI（Claude）に事業を任せて、人間は見守る」という挑戦をしています。人間のオーナーは毎日、Claude Code にたくさんの指示を出しています。あるとき、オーナーからこう頼まれました。「AI を使う技術を上げるために、指示の内容を全部残しておきたい」。AI への頼み方は、うまくなっているのかどうかが自分では分かりにくいんですよね。うまくいった頼み方も、伝わらなかった頼み方も、会話が終われば流れていきます。そこで、Claude Code が自動で保存している会話記録から、人間...]]></content>
+        <author>
+            <name>Extra Hand</name>
+        </author>
+        <published>2026-10-24T08:20:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[確かめない技術 第3回：テストを再実行しない技術 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/garplab/articles/083e25df1be2fa</id>
+        <link href="https://zenn.dev/garplab/articles/083e25df1be2fa"/>
+        <updated>2026-10-24T08:17:06.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、連載「確かめない技術」の第 3 回です。うまくいかない症状と、その対処を一つずつ並べています。各回はファイルやスクリプトを一つ置けば完結します。その仕組みがなぜ要るのかは、置いたあとに解説を読めば分かります。連載の全体像と各回の一覧は序論にあります。今回は、テストの再実行の話です。再実行というのは、コードを 1 文字も変えていないのに、同じテストをもう一度走らせることです。AIは「最終]]></summary>
+        <content type="html"><![CDATA[この記事は、連載「確かめない技術」の第 3 回です。うまくいかない症状と、その対処を一つずつ並べています。各回はファイルやスクリプトを一つ置けば完結します。その仕組みがなぜ要るのかは、置いたあとに解説を読めば分かります。連載の全体像と各回の一覧は序論にあります。今回は、テストの再実行の話です。再実行というのは、コードを 1 文字も変えていないのに、同じテストをもう一度走らせることです。AIは「最終確認をして引き継ぎます」と書いて、直前に通ったばかりのテストを走らせ直しました。AIにとって、確認と再実行は区別されないからです。私は、結果が変わらないと分かっている実行を、最後まで待って...]]></content>
+        <author>
+            <name>garplab</name>
+        </author>
+        <published>2026-10-24T08:17:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open LLM Vtuberの仕組み | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/sog00/articles/open-llm-vtuber</id>
+        <link href="https://zenn.dev/sog00/articles/open-llm-vtuber"/>
+        <updated>2026-10-24T08:06:20.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめにAIVtuberで私自身がプロデューサーとなって、Youtube活動ができないかと思いつきました。そこで既存のOpenSourceである「Open LLM Vtuber」を見つけ、どのようなものなのかをまとめていきます 2. 目次Open LLM Vtuberとは仕組みどのようにそれを実現しているのかファイル構成実装方法 3.Open LLM VtuberとはOpen-LLM-VTu]]></summary>
+        <content type="html"><![CDATA[1. はじめにAIVtuberで私自身がプロデューサーとなって、Youtube活動ができないかと思いつきました。そこで既存のOpenSourceである「Open LLM Vtuber」を見つけ、どのようなものなのかをまとめていきます 2. 目次Open LLM Vtuberとは仕組みどのようにそれを実現しているのかファイル構成実装方法 3.Open LLM VtuberとはOpen-LLM-VTuberは、LLMと音声対話、TTS、Live2Dアバターを組み合わせて、AIキャラクターと会話できるようにするオープンソースプロジェクトです。公式READMEでは...]]></content>
+        <author>
+            <name>sog00</name>
+        </author>
+        <published>2026-10-24T08:06:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM で大量生成される偽アカウント・偽レビュー・スパムへの対策：文章の判定をやめ、つながりと時間の偏りで見つける | 機械学習タグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/shalXXXX/items/018c8205a3a717d53b7f</id>
+        <link href="https://qiita.com/shalXXXX/items/018c8205a3a717d53b7f"/>
+        <updated>2026-10-24T08:00:32.000Z</updated>
+        <summary type="html"><![CDATA[レビュー欄・コメント欄・Q&amp;amp;A・会員登録といった「利用者が書き込める場所」を持つサービスでは、LLM によって偽の投稿を作るコストが大きく下がりました。以前のスパムは同じ文面の使い回しや不自然な日本語で見分けられましたが、LLM は 1 件ずつ違う、自然な文章を書けます。...]]></summary>
+        <content type="html"><![CDATA[レビュー欄・コメント欄・Q&amp;amp;A・会員登録といった「利用者が書き込める場所」を持つサービスでは、LLM によって偽の投稿を作るコストが大きく下がりました。以前のスパムは同じ文面の使い回しや不自然な日本語で見分けられましたが、LLM は 1 件ずつ違う、自然な文章を書けます。...]]></content>
+        <published>2026-10-24T08:00:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning web pages into LLM-ready Markdown with a scrape API | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/xcrawl/articles/4c1e210642cce5</id>
+        <link href="https://zenn.dev/xcrawl/articles/4c1e210642cce5"/>
+        <updated>2026-10-24T07:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Large language models are only as useful as the context you give them. Most of the web is still HTML, navigation, and ads. A scrape API that returns clean Markdown lets you drop a page into a prompt o]]></summary>
+        <content type="html"><![CDATA[Large language models are only as useful as the context you give them. Most of the web is still HTML, navigation, and ads. A scrape API that returns clean Markdown lets you drop a page into a prompt or a RAG index. Why MarkdownHeadings and lists survive chunking.Code blocks stay intact for t...]]></content>
+        <author>
+            <name>XCrawl</name>
+        </author>
+        <published>2026-10-24T07:53:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ、AIで職を失うのは特定の職業ではなく各職業の下位層だというのが現実なのに、特定の職業が無くなるという記事の方が世間ではウケるのか？ | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/pdfractal/articles/6ce47b1845b8d4</id>
+        <link href="https://zenn.dev/pdfractal/articles/6ce47b1845b8d4"/>
+        <updated>2026-10-24T07:50:43.000Z</updated>
+        <summary type="html"><![CDATA[はじめに生成AIが急速に普及して以来、「AIによってプログラマーが消える」「弁護士が不要になる」「医師までAIに置き換えられる」といった職業消滅論が繰り返し語られてきました。しかし、2026年までに公表されている労働市場データを見る限り、実際に起きている変化はこれらの予測とはかなり違う形をしています。医師も弁護士もプログラマーも職業として存続している一方、AIによって一人あたりの処理量が増え、同じ]]></summary>
+        <content type="html"><![CDATA[はじめに生成AIが急速に普及して以来、「AIによってプログラマーが消える」「弁護士が不要になる」「医師までAIに置き換えられる」といった職業消滅論が繰り返し語られてきました。しかし、2026年までに公表されている労働市場データを見る限り、実際に起きている変化はこれらの予測とはかなり違う形をしています。医師も弁護士もプログラマーも職業として存続している一方、AIによって一人あたりの処理量が増え、同じ仕事量を以前より少ない人数で回せるようになることで、職業の入口が狭くなる現象はすでに観測されています。スタンフォードデジタルエコノミー研究所が2026年8月に改訂した米国給与データの分析で...]]></content>
+        <author>
+            <name>pdfractal</name>
+        </author>
+        <published>2026-10-24T07:50:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ、AIで職を失うのは特定の職業ではなく各職業の下位層だというのが現実なのに、特定の職業が無くなるという記事の方が世間ではウケるのか？ | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/pdfractal/articles/6ce47b1845b8d4</id>
+        <link href="https://zenn.dev/pdfractal/articles/6ce47b1845b8d4"/>
+        <updated>2026-10-24T07:50:43.000Z</updated>
+        <summary type="html"><![CDATA[はじめに生成AIが急速に普及して以来、「AIによってプログラマーが消える」「弁護士が不要になる」「医師までAIに置き換えられる」といった職業消滅論が繰り返し語られてきました。しかし、2026年までに公表されている労働市場データを見る限り、実際に起きている変化はこれらの予測とはかなり違う形をしています。医師も弁護士もプログラマーも職業として存続している一方、AIによって一人あたりの処理量が増え、同じ]]></summary>
+        <content type="html"><![CDATA[はじめに生成AIが急速に普及して以来、「AIによってプログラマーが消える」「弁護士が不要になる」「医師までAIに置き換えられる」といった職業消滅論が繰り返し語られてきました。しかし、2026年までに公表されている労働市場データを見る限り、実際に起きている変化はこれらの予測とはかなり違う形をしています。医師も弁護士もプログラマーも職業として存続している一方、AIによって一人あたりの処理量が増え、同じ仕事量を以前より少ない人数で回せるようになることで、職業の入口が狭くなる現象はすでに観測されています。スタンフォードデジタルエコノミー研究所が2026年8月に改訂した米国給与データの分析で...]]></content>
+        <author>
+            <name>pdfractal</name>
+        </author>
+        <published>2026-10-24T07:50:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacBook Air（M5）でローカルLLM環境を構築してみた | Zennの「大規模言語モデル」のフィード]]></title>
+        <id>https://zenn.dev/saaaku/articles/localllm-in-macbookair</id>
+        <link href="https://zenn.dev/saaaku/articles/localllm-in-macbookair"/>
+        <updated>2026-10-24T07:45:41.000Z</updated>
+        <summary type="html"><![CDATA[はじめにMacBook Air（M5、メモリ24GB）にローカルLLM環境を構築して「とりあえず動かしてみる」という記事です。結論として、今回はgemma4を使ったのですが、軽量なモデルでも思ったより回答までに時間がかかるなという印象です。（普段ClaudeCodeを使っているので、期待値が高すぎたのかも。）とはいえ、Claudeがリミットになったので一時的にローカルLLMで代用したいときはありな]]></summary>
+        <content type="html"><![CDATA[はじめにMacBook Air（M5、メモリ24GB）にローカルLLM環境を構築して「とりあえず動かしてみる」という記事です。結論として、今回はgemma4を使ったのですが、軽量なモデルでも思ったより回答までに時間がかかるなという印象です。（普段ClaudeCodeを使っているので、期待値が高すぎたのかも。）とはいえ、Claudeがリミットになったので一時的にローカルLLMで代用したいときはありなのかなと思います。機密情報を扱うのでオフライン環境でLLMを使いたいなどの明確な目的・理由がある場合には、素直にパソコンのスペックを上げましょう。!本記事はあくまでも「使ってみ...]]></content>
+        <author>
+            <name>saaaku</name>
+        </author>
+        <published>2026-10-24T07:45:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【全員1位】地球を10m四方でベクトル化する3製品、Google・ケンブリッジ・Ai2の論文はどれも「自分が最強」。同じAlphaEarthが2位にも最下位にもなる理由と、自分のデータで決める4つの試し方 | 機械学習タグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/emi_ndk/items/9138a0ae483c074f34ad</id>
+        <link href="https://qiita.com/emi_ndk/items/9138a0ae483c074f34ad"/>
+        <updated>2026-10-24T07:38:32.000Z</updated>
+        <summary type="html"><![CDATA[衛星画像から作物や森林の地図を作っているなら、今すぐ読んでほしい。いちばん重い計算は、もう誰かが地球全体で済ませて、無料で置いてある。Ai2の技術レポートによると、前の世代のOlmoEarth v1.2で大規模な地図を作ると、コストの98%がモデルの推論だった（残りの2%...]]></summary>
+        <content type="html"><![CDATA[衛星画像から作物や森林の地図を作っているなら、今すぐ読んでほしい。いちばん重い計算は、もう誰かが地球全体で済ませて、無料で置いてある。Ai2の技術レポートによると、前の世代のOlmoEarth v1.2で大規模な地図を作ると、コストの98%がモデルの推論だった（残りの2%...]]></content>
+        <published>2026-10-24T07:38:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code のハーネスを自己改善させる — PR 後の手直しをルールに戻すループ | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/wanko13/articles/20261024-harness-self-improvement-loop</id>
+        <link href="https://zenn.dev/wanko13/articles/20261024-harness-self-improvement-loop"/>
+        <updated>2026-10-24T07:30:42.000Z</updated>
+        <summary type="html"><![CDATA[はじめにAI に PR まで作らせても、命名や余計な分岐を毎回同じように直していませんか。私のプロジェクトでは、Jira のチケットを渡すと、AI が設計から実装・検証まで進めて PR を作る運用をしています。ただ、AI が PR まで完走しても、そのままマージできるとは限りません。命名を直す、余計な分岐を消す、画面の文言を揃える。こうした箇所を、私が指示を出して直させています。この記事ではこれを]]></summary>
+        <content type="html"><![CDATA[はじめにAI に PR まで作らせても、命名や余計な分岐を毎回同じように直していませんか。私のプロジェクトでは、Jira のチケットを渡すと、AI が設計から実装・検証まで進めて PR を作る運用をしています。ただ、AI が PR まで完走しても、そのままマージできるとは限りません。命名を直す、余計な分岐を消す、画面の文言を揃える。こうした箇所を、私が指示を出して直させています。この記事ではこれを「PR 後の手直し」と呼びます。その多くは、AI の実装が甘かった部分です。手直しをその場で終わらせると、同じ甘さが次のチケットでもまた出てきます。そこで、PR 後の手直しを集めて、次...]]></content>
+        <author>
+            <name>Mr_D</name>
+        </author>
+        <published>2026-10-24T07:30:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[読まなくていいコード | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/i2y/articles/1e060695dcbb74</id>
+        <link href="https://zenn.dev/i2y/articles/1e060695dcbb74"/>
+        <updated>2026-10-24T07:11:43.000Z</updated>
+        <summary type="html"><![CDATA[AI のエージェントにコードを書かせるようになってから、奇妙なことが起きている。コードを書く時間は減ったのに、コードを読む時間が増えたのだ。これは印象の話ではない。Faros AI が 2 万 2,000 人の開発者のデータを調べた 2026 年 4 月の報告では、AI をよく使う時期には、開発者 1 人あたりのタスクの処理量が 33.7% 増えた一方で、プルリクエストがレビューにかかっている時間]]></summary>
+        <content type="html"><![CDATA[AI のエージェントにコードを書かせるようになってから、奇妙なことが起きている。コードを書く時間は減ったのに、コードを読む時間が増えたのだ。これは印象の話ではない。Faros AI が 2 万 2,000 人の開発者のデータを調べた 2026 年 4 月の報告では、AI をよく使う時期には、開発者 1 人あたりのタスクの処理量が 33.7% 増えた一方で、プルリクエストがレビューにかかっている時間の中央値は 441.5% 増えた[1]。ハーバード大学の Chen と Stratton が 718 社を調べた論文では、コーディングエージェントを入れたあとに追加されたコードは約 30% 増...]]></content>
+        <author>
+            <name>i2y</name>
+        </author>
+        <published>2026-10-24T07:11:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI×Blenderでゲーム用キャラ素体の作成に挑戦した記録――面の流れ・陰影・左右差 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/yy7613/articles/3106575bd449f9</id>
+        <link href="https://zenn.dev/yy7613/articles/3106575bd449f9"/>
+        <updated>2026-10-24T07:06:33.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、AI×Blenderでゲーム用キャラ素体の作成に挑戦した記録の続編です。前回の記事の公開後も生成AIに指示しながら同じ素体の頭部を改善しています。前回は目や口を囲むループで面の構造を設計し、断面のグラフで折れや凹みを見つけて直しました。今回は、それだけでは改善できなかった次の2つの問題に取り組みました。陰影のむら：広い平らな部分と狭い範囲で急に曲がる部分が隣り合い、光を当てると帯のよう]]></summary>
+        <content type="html"><![CDATA[この記事は、AI×Blenderでゲーム用キャラ素体の作成に挑戦した記録の続編です。前回の記事の公開後も生成AIに指示しながら同じ素体の頭部を改善しています。前回は目や口を囲むループで面の構造を設計し、断面のグラフで折れや凹みを見つけて直しました。今回は、それだけでは改善できなかった次の2つの問題に取り組みました。陰影のむら：広い平らな部分と狭い範囲で急に曲がる部分が隣り合い、光を当てると帯のような影が出るパラメータで戻る左右差：基準の形を左右対称にしても、顔幅などのパラメータを動かすと左右差が出る上記の操作は前回に引き続き Blender+Pythonで行っています。...]]></content>
+        <author>
+            <name>Yuuki.Y</name>
+        </author>
+        <published>2026-10-24T07:06:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot の業務 API を Claude Code に書かせて分かった、「書いたことは守り、書かなかったことは落とす」 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/swdrk/articles/a18eca9e53d582</id>
+        <link href="https://zenn.dev/swdrk/articles/a18eca9e53d582"/>
+        <updated>2026-10-24T07:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Java・Spring Boot で業務システムを作ってきました。業務システムのコードを AI のコーディングツール（Claude Code）にどこまで任せられるかを、架空の「備品貸出管理 API」で試しました。指示の出し方を変えて4回動かし、出てきたコードを人が書いたテストで確かめています。結論を先に書きます。文章でざっくり頼むと、動くものは出てくる。ただし、頼んでいない機能や、仕様にない判断（]]></summary>
+        <content type="html"><![CDATA[Java・Spring Boot で業務システムを作ってきました。業務システムのコードを AI のコーディングツール（Claude Code）にどこまで任せられるかを、架空の「備品貸出管理 API」で試しました。指示の出し方を変えて4回動かし、出てきたコードを人が書いたテストで確かめています。結論を先に書きます。文章でざっくり頼むと、動くものは出てくる。ただし、頼んでいない機能や、仕様にない判断（タイムゾーン・同時実行の扱い）を AI が自分で決めて入れるルールファイル（CLAUDE.md）と受け入れ条件で縛ると、範囲どおりに作り、テストも厚くなる。ただし、書かなかった非機能...]]></content>
+        <author>
+            <name>R.Sawada</name>
+        </author>
+        <published>2026-10-24T07:01:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに「買い」を決めさせない：投資ツールでAIに任せること、任せないこと | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/stockrules_jp/articles/dcb0af27f204d3</id>
+        <link href="https://zenn.dev/stockrules_jp/articles/dcb0af27f204d3"/>
+        <updated>2026-10-24T07:00:22.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は、自分用に作っている投資ツールの「設計の考え方」を紹介するものです。特定の銘柄の売買を推奨するものではありません。投資判断はご自身で行ってください。 はじめにルールベース株研です。Claude Code で日本株の投資ツールを2つ作っています。前回の記事の最後で、次は仕様書の話を書くと予告していました。ただ、Xで一番反応が多かったのが「AIに買い・売りを決めさせない」という投稿だったの]]></summary>
+        <content type="html"><![CDATA[!この記事は、自分用に作っている投資ツールの「設計の考え方」を紹介するものです。特定の銘柄の売買を推奨するものではありません。投資判断はご自身で行ってください。 はじめにルールベース株研です。Claude Code で日本株の投資ツールを2つ作っています。前回の記事の最後で、次は仕様書の話を書くと予告していました。ただ、Xで一番反応が多かったのが「AIに買い・売りを決めさせない」という投稿だったので、先にこちらを書くことにしました。仕様書の話は次回に回します。AIを使った投資ツールと聞くと、「AIが買い時を教えてくれる」ものを思い浮かべる人が多いと思います。私のツールはその...]]></content>
+        <author>
+            <name>ルールベース株研 | AIを活用してルールで投資する</name>
+        </author>
+        <published>2026-10-24T07:00:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに「買い」を決めさせない：投資ツールでAIに任せること、任せないこと | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/stockrules_jp/articles/dcb0af27f204d3</id>
+        <link href="https://zenn.dev/stockrules_jp/articles/dcb0af27f204d3"/>
+        <updated>2026-10-24T07:00:22.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は、自分用に作っている投資ツールの「設計の考え方」を紹介するものです。特定の銘柄の売買を推奨するものではありません。投資判断はご自身で行ってください。 はじめにルールベース株研です。Claude Code で日本株の投資ツールを2つ作っています。前回の記事の最後で、次は仕様書の話を書くと予告していました。ただ、Xで一番反応が多かったのが「AIに買い・売りを決めさせない」という投稿だったの]]></summary>
+        <content type="html"><![CDATA[!この記事は、自分用に作っている投資ツールの「設計の考え方」を紹介するものです。特定の銘柄の売買を推奨するものではありません。投資判断はご自身で行ってください。 はじめにルールベース株研です。Claude Code で日本株の投資ツールを2つ作っています。前回の記事の最後で、次は仕様書の話を書くと予告していました。ただ、Xで一番反応が多かったのが「AIに買い・売りを決めさせない」という投稿だったので、先にこちらを書くことにしました。仕様書の話は次回に回します。AIを使った投資ツールと聞くと、「AIが買い時を教えてくれる」ものを思い浮かべる人が多いと思います。私のツールはその...]]></content>
+        <author>
+            <name>ルールベース株研 | AIを活用してルールで投資する</name>
+        </author>
+        <published>2026-10-24T07:00:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローカルLLMに必要なVRAMは何GB？計算方法とモデル別の早見表【2026年版】 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/localai_pc/articles/89607074cd0d5b</id>
+        <link href="https://zenn.dev/localai_pc/articles/89607074cd0d5b"/>
+        <updated>2026-10-24T05:33:48.000Z</updated>
+        <summary type="html"><![CDATA[「家のPCでLLMを動かしたいけど、どのGPUを買えばいいの？」いちばん大事なのは、GPUの性能よりVRAM（GPUのメモリ）の容量です。この記事では、必要なVRAMの計算方法と、人気モデルの早見表をまとめます。 結論：必要なVRAMはこの式で出せる必要なVRAM ≒ モデル本体 ＋ 会話の記憶領域（KVキャッシュ） ＋ 余白 約1GBモデル本体 ≒ パラメータ数（B）× 量子化ごとのサイズ量子化]]></summary>
+        <content type="html"><![CDATA[「家のPCでLLMを動かしたいけど、どのGPUを買えばいいの？」いちばん大事なのは、GPUの性能よりVRAM（GPUのメモリ）の容量です。この記事では、必要なVRAMの計算方法と、人気モデルの早見表をまとめます。 結論：必要なVRAMはこの式で出せる必要なVRAM ≒ モデル本体 ＋ 会話の記憶領域（KVキャッシュ） ＋ 余白 約1GBモデル本体 ≒ パラメータ数（B）× 量子化ごとのサイズ量子化ごとの1パラメータあたりのサイズは、だいたい次のとおりです。量子化1パラメータあたり8Bモデルの本体4bit（Q4）約0.6バイト約4.8GB8bit...]]></content>
+        <author>
+            <name>ローカルAIのPC選び</name>
+        </author>
+        <published>2026-10-24T05:33:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeのサブフォルダの CLAUDE.md が先頭だけになる境目を測ったら、200Kは4万字、1Mは15万字でした | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/ojisan_ai_lab/articles/claude-code-nested-claudemd-limit-20261024</id>
+        <link href="https://zenn.dev/ojisan_ai_lab/articles/claude-code-nested-claudemd-limit-20261024"/>
+        <updated>2026-10-24T05:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code の CLAUDE.md、育てているうちに長くなっていませんか。おじさんのところも、部署ごとのフォルダに CLAUDE.md を置いていて、いちばん長いものは1万5千字を超えています。10月23日に出た Claude Code の v2.1.309 で、「サブフォルダの CLAUDE.md が上限を超えたら、先頭だけを読む」という動きが入りました。何文字から先頭だけになるのか]]></summary>
+        <content type="html"><![CDATA[Claude Code の CLAUDE.md、育てているうちに長くなっていませんか。おじさんのところも、部署ごとのフォルダに CLAUDE.md を置いていて、いちばん長いものは1万5千字を超えています。10月23日に出た Claude Code の v2.1.309 で、「サブフォルダの CLAUDE.md が上限を超えたら、先頭だけを読む」という動きが入りました。何文字から先頭だけになるのかが気になったので、10月24日に検証用のフォルダで測ってみました。結果は、公式 docs の数字どおりでした。200K の文脈窓では 40,000字ちょうどまでは全文、40,100字で先頭だ...]]></content>
+        <author>
+            <name>おじさんAIラボ</name>
+        </author>
+        <published>2026-10-24T05:05:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKPN と OMPV をSW工学の原則に追加したい | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/good_relax/articles/a7342a5e7623ec</id>
+        <link href="https://zenn.dev/good_relax/articles/a7342a5e7623ec"/>
+        <updated>2026-10-24T04:53:14.000Z</updated>
+        <summary type="html"><![CDATA[なぜ？今回はあえて不遜なタイトルにしてみた。おっさんは名著『プリンシプル オブ プログラミング』を愛読してるんだが、困ったことが起きた。とあるツールをAIに作らせてたら、ライトモードとダークモードのフォント色指定を{ "fontColor": "#c0504d/#b2423f" }って感じにスラッシュで区切って、1 つの文字列に 2 つの値を詰めてしまった。片方だけ仕様を変えたい、3 つ目のモード]]></summary>
+        <content type="html"><![CDATA[なぜ？今回はあえて不遜なタイトルにしてみた。おっさんは名著『プリンシプル オブ プログラミング』を愛読してるんだが、困ったことが起きた。とあるツールをAIに作らせてたら、ライトモードとダークモードのフォント色指定を{ "fontColor": "#c0504d/#b2423f" }って感じにスラッシュで区切って、1 つの文字列に 2 つの値を詰めてしまった。片方だけ仕様を変えたい、3 つ目のモードを足したい、となった瞬間に形ごと作り直し。 アンチパターンのど真ん中。当たり前っちゃ当たり前なんだが、持ってる本を見返しても、これを一言で言う原則が無い。第 1 正規形や P...]]></content>
+        <author>
+            <name>GoodRelax</name>
+        </author>
+        <published>2026-10-24T04:53:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIコードレビューの不合格率が51%→13%に。3モデル中2つは判定していなかった | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/taka8823/articles/2df36d66844c15</id>
+        <link href="https://zenn.dev/taka8823/articles/2df36d66844c15"/>
+        <updated>2026-10-24T02:50:01.000Z</updated>
+        <summary type="html"><![CDATA[自分用のタスク管理アプリを、4ヶ月半ほど自律エージェントに開発させている。実装後の diff を別のモデルにレビューさせ、不合格なら差し戻す「敵対的差分レビュー」を入れていた。その不合格率が、7月の51.1%から10月には13.4%まで下がっていた。ところがログを調べると、3モデルでレビューするはずが、10月は全209件で1モデルしか判定していなかった。残りの2モデルは、すべて unknown（判]]></summary>
+        <content type="html"><![CDATA[自分用のタスク管理アプリを、4ヶ月半ほど自律エージェントに開発させている。実装後の diff を別のモデルにレビューさせ、不合格なら差し戻す「敵対的差分レビュー」を入れていた。その不合格率が、7月の51.1%から10月には13.4%まで下がっていた。ところがログを調べると、3モデルでレビューするはずが、10月は全209件で1モデルしか判定していなかった。残りの2モデルは、すべて unknown（判定不能）。集計処理はそれを除外し、回答した1モデルだけで合否を決めていた。有効な判定が減っていることは、ゲートの異常として通知されていなかった。指標としては良くなっていたので、私はそれを素...]]></content>
+        <author>
+            <name>yuki takamura</name>
+        </author>
+        <published>2026-10-24T02:50:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude の中では何が起きているか。Anthropic の解釈可能性研究者が語った11の発見（#38 解説） | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/talks_tldr_jp/articles/tldr38-ameisen-summary</id>
+        <link href="https://zenn.dev/talks_tldr_jp/articles/tldr38-ameisen-summary"/>
+        <updated>2026-10-24T01:00:13.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は、Lenny's Podcast「Inside the black box of AI: How AI models actually think」（2026-10-18、1時間12分）の紹介と論評を目的に、筆者が要点を抽出してまとめたものです。翻訳の全文ではなく、動画を網羅・代替するものでもありません。発言の正確な文脈は元動画をご覧ください。 この回の位置づけ話し手は Emmanue]]></summary>
+        <content type="html"><![CDATA[!この記事は、Lenny's Podcast「Inside the black box of AI: How AI models actually think」（2026-10-18、1時間12分）の紹介と論評を目的に、筆者が要点を抽出してまとめたものです。翻訳の全文ではなく、動画を網羅・代替するものでもありません。発言の正確な文脈は元動画をご覧ください。 この回の位置づけ話し手は Emmanuel Ameisen。Anthropic の解釈可能性（interpretability）研究者で、Claude のような LLM の中を見て「どう考えているか」を調べています（番組の説...]]></content>
+        <author>
+            <name>管理人K</name>
+        </author>
+        <published>2026-10-24T01:00:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Made in Ningen 「人間産コード」は本当に安心なのか | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/maman/articles/3f08b9fcabcb01</id>
+        <link href="https://zenn.dev/maman/articles/3f08b9fcabcb01"/>
+        <updated>2026-10-24T00:38:14.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちわ。家電量販店で箱の裏を見て「Made in ○○か……」とつぶやいた経験、誰にでもあると思います。2026年、コードにも同じ光景が生まれました。PRを開いて、diffを眺めて、こうつぶやくのです。「これ、Made in AI だな……」この記事は、いま静かに始まっている（と思っている）「Made in Ningen（人間が作ったかどうか）」vs「Made in AI」論争を、かつ]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちわ。家電量販店で箱の裏を見て「Made in ○○か……」とつぶやいた経験、誰にでもあると思います。2026年、コードにも同じ光景が生まれました。PRを開いて、diffを眺めて、こうつぶやくのです。「これ、Made in AI だな……」この記事は、いま静かに始まっている（と思っている）「Made in Ningen（人間が作ったかどうか）」vs「Made in AI」論争を、かつての「国産 vs 海外製」論争になぞらえて、くだけた感じに、でも最後だけ少し真面目に書いたものです。 第1章：かつて「Made in Ningen」はブランドだった思い返...]]></content>
+        <author>
+            <name>採用とかやってるシバヤマさん</name>
+        </author>
+        <published>2026-10-24T00:38:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeと作る競馬予測システム開発記(9) Claude Codeとの開発の実際 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/teruyotasaki/articles/horse-racing-ml-dev-09-claude-code</id>
+        <link href="https://zenn.dev/teruyotasaki/articles/horse-racing-ml-dev-09-claude-code"/>
+        <updated>2026-10-24T00:08:25.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は、オーバーレイ探索の試行錯誤について書きました。第1回で「Claude Codeを相棒に開発している」と書いたまま、その中身にはまだ触れていませんでした。第9回となる今回は、このプロジェクトでClaude Codeをどう使っているかを、うまくいった使い方・気をつけていることも含めて書きます。 どんな場面で使っているかこのプロジェクトでは、開発のほぼ全場面でClaude Codeに手伝]]></summary>
+        <content type="html"><![CDATA[はじめに前回は、オーバーレイ探索の試行錯誤について書きました。第1回で「Claude Codeを相棒に開発している」と書いたまま、その中身にはまだ触れていませんでした。第9回となる今回は、このプロジェクトでClaude Codeをどう使っているかを、うまくいった使い方・気をつけていることも含めて書きます。 どんな場面で使っているかこのプロジェクトでは、開発のほぼ全場面でClaude Codeに手伝ってもらっています。スクレイピング・パース処理の保守特徴量のアイデア出しと実装精度悪化やバグの原因調査Notebookの整理・スクリプト化運用トラブルの切り分けドキュ...]]></content>
+        <author>
+            <name>田崎輝代</name>
+        </author>
+        <published>2026-10-24T00:08:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html</id>
+        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html"/>
+        <updated>2026-10-23T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。]]></summary>
+        <content type="html"><![CDATA[Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。]]></content>
+        <published>2026-10-23T23:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[座標降下法を自分で書いて確かめる：変数を1つずつ動かす最適化が遅くなる場面と止まる場面 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/tmtk/articles/31262415d90606</id>
+        <link href="https://zenn.dev/tmtk/articles/31262415d90606"/>
+        <updated>2026-10-23T23:05:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに『分析者のための数理最適化入門』（伊藤元治・原田耕平・松岡勇気、ソシム、2026年）の第4章は、「大規模な制約なし最適化」を扱う章です。内容が多いので、4本に分けて記事にします。この記事は1本目で、変数を1つずつ動かす座標降下法を扱います。第3章で扱った最急降下法やニュートン法は、反復のたびにすべての変数を同時に動かしました。そのために、毎回すべての変数についての勾配（偏微分を並べたベクト]]></summary>
+        <content type="html"><![CDATA[はじめに『分析者のための数理最適化入門』（伊藤元治・原田耕平・松岡勇気、ソシム、2026年）の第4章は、「大規模な制約なし最適化」を扱う章です。内容が多いので、4本に分けて記事にします。この記事は1本目で、変数を1つずつ動かす座標降下法を扱います。第3章で扱った最急降下法やニュートン法は、反復のたびにすべての変数を同時に動かしました。そのために、毎回すべての変数についての勾配（偏微分を並べたベクトル）を計算します。変数が多い問題では、この計算が重くなります。座標降下法は、1回の反復で動かす変数を1つに絞る方法です。動かす変数が1つなら、解く問題は1変数の最小化になり、式で答えが...]]></content>
+        <author>
+            <name>tmtk</name>
+        </author>
+        <published>2026-10-23T23:05:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/24/2000002564/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/24/2000002564/"/>
+        <updated>2026-10-23T22:28:08.000Z</updated>
+        <summary type="html"><![CDATA[Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。]]></summary>
+        <content type="html"><![CDATA[Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。]]></content>
+        <published>2026-10-23T22:28:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI運用の変更を3段階で通知する影響先マップの作り方 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/miraigent/articles/ai-ops-change-impact-notification</id>
+        <link href="https://zenn.dev/miraigent/articles/ai-ops-change-impact-notification"/>
+        <updated>2026-10-23T20:39:20.000Z</updated>
+        <summary type="html"><![CDATA[AIのプロンプト、参照FAQ、フォーム項目、確認者を変更した時、関係者全員へ同じ通知を送っていないでしょうか。全員へ知らせると見落とされやすくなり、知らせないと古い条件で返信や確認が続きます。問題は「変更を通知するか」だけではなく、どの変更を、誰へ、いつまでに伝え、どの証拠を残すかを決めていないことです。この記事では、AIを使った問い合わせや社内業務を小さく運用しているチーム向けに、変更を STO]]></summary>
+        <content type="html"><![CDATA[AIのプロンプト、参照FAQ、フォーム項目、確認者を変更した時、関係者全員へ同じ通知を送っていないでしょうか。全員へ知らせると見落とされやすくなり、知らせないと古い条件で返信や確認が続きます。問題は「変更を通知するか」だけではなく、どの変更を、誰へ、いつまでに伝え、どの証拠を残すかを決めていないことです。この記事では、AIを使った問い合わせや社内業務を小さく運用しているチーム向けに、変更を STOP_REVIEW、SAME_DAY_NOTIFY、ROUTINE_LOG の3段階へ振り分ける影響先マップを作ります。外部サービスへの自動通知やAI API接続は扱わず、判断と通知の境界を...]]></content>
+        <author>
+            <name>Kirisaki Kazuya | Miraigent代表</name>
+        </author>
+        <published>2026-10-23T20:39:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出　「AIにはAIを」 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/</id>
+        <link href="https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/"/>
+        <updated>2026-10-23T13:56:59.000Z</updated>
+        <summary type="html"><![CDATA[チームみらいの安野貴博党首らは、AI活用による防御力強化や攻撃の実態把握、情報漏えい被害発生後の措置などをまとめた緊急提言をデジタル庁に提出した。]]></summary>
+        <content type="html"><![CDATA[チームみらいの安野貴博党首らは、AI活用による防御力強化や攻撃の実態把握、情報漏えい被害発生後の措置などをまとめた緊急提言をデジタル庁に提出した。]]></content>
+        <published>2026-10-23T13:56:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保留箱は月1回の見直しで再開か廃止か — 1か月を超えて置かない1行の判定 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/takumahayami/articles/eigyou-ai-horyu-minaoshi-1kagetsu</id>
+        <link href="https://zenn.dev/takumahayami/articles/eigyou-ai-horyu-minaoshi-1kagetsu"/>
+        <updated>2026-10-23T12:58:32.000Z</updated>
+        <summary type="html"><![CDATA[商談前メモ5箱の運用では、判断に迷った箱を「保留」に置くことがあります。前回の5箱の状態は月次報告の1行に足すでは、AI案・採用・▲・保留の箱数と前月比を月次報告1枚の来月方針1行に足す書式を扱いました。保留は、止めた行は消さずに降格させるで定めた止めた行の4つの行き先のうちの1つです。保留に置いた箱は放置すると永遠に保留のまま残ります。今回は、保留箱を月1回の見直しで回す扱いです。再開（AI案へ]]></summary>
+        <content type="html"><![CDATA[商談前メモ5箱の運用では、判断に迷った箱を「保留」に置くことがあります。前回の5箱の状態は月次報告の1行に足すでは、AI案・採用・▲・保留の箱数と前月比を月次報告1枚の来月方針1行に足す書式を扱いました。保留は、止めた行は消さずに降格させるで定めた止めた行の4つの行き先のうちの1つです。保留に置いた箱は放置すると永遠に保留のまま残ります。今回は、保留箱を月1回の見直しで回す扱いです。再開（AI案へ戻す）と廃止（表から消す）の間を、保留を1か月より長く置かない基準で決めます。 1. 保留は何のための置き場か保留は判断の保留: 降格を下す材料がその月になかった箱を置いておく場所で...]]></content>
+        <author>
+            <name>速水 拓真</name>
+        </author>
+        <published>2026-10-23T12:58:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI採用は面接官を“置き換える”のではなく“支える” ― 面接官アシストを作って考えたこと | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/deepai/articles/ai-saiyo-assist</id>
+        <link href="https://zenn.dev/deepai/articles/ai-saiyo-assist"/>
+        <updated>2026-10-23T12:03:38.000Z</updated>
+        <summary type="html"><![CDATA[本記事の原文（初出）: https://crystal-method.com/ai-hiring/ この記事について（一次情報の明示）バーチャルヒューマンを開発するAI企業・クリスタルメソッド株式会社が、採用面接を支援するAIを作る中で得た実装者視点の記録です。監修は代表・河合継（AIマルチモーダル関連の発明者。当社の登録特許は16件）。 AI採用で何を解きたいか採用面接には、面接官の負荷・評価の]]></summary>
+        <content type="html"><![CDATA[本記事の原文（初出）: https://crystal-method.com/ai-hiring/ この記事について（一次情報の明示）バーチャルヒューマンを開発するAI企業・クリスタルメソッド株式会社が、採用面接を支援するAIを作る中で得た実装者視点の記録です。監修は代表・河合継（AIマルチモーダル関連の発明者。当社の登録特許は16件）。 AI採用で何を解きたいか採用面接には、面接官の負荷・評価のばらつき・候補者体験という課題があります。「AIが面接官を全部やる」より、まずここを支えるのが現実的だと考えました。 私たちの設計方針 ― 置き換えでなく“アシスト”面接の...]]></content>
+        <author>
+            <name>deepai</name>
+        </author>
+        <published>2026-10-23T12:03:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[介護のケア記録と申し送り、AIはどこまで任せられますか？ — 次の時間で決める | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/satoshimizuhara/articles/ai-agent-care-record-handover</id>
+        <link href="https://zenn.dev/satoshimizuhara/articles/ai-agent-care-record-handover"/>
+        <updated>2026-10-23T11:39:32.000Z</updated>
+        <summary type="html"><![CDATA[昨日は、資材の手配と受入の仕事で、建設の現場に寄せて読む3回目を書いた。昨日予告した通り、本稿からは新しい区切りに入り、この型を介護の現場に寄せて読む1回目として、ケア記録と申し送りの仕事を置く。ケア記録のたたき台や介護保険の加算要件との突き合わせ、申し送りメモの項目の整理は機械が速くそろえられる。しかし申し送りは、同じ「気づき」の1行が次のシフトの職員の、その人と過ごす時間の使い方を変える仕事で]]></summary>
+        <content type="html"><![CDATA[昨日は、資材の手配と受入の仕事で、建設の現場に寄せて読む3回目を書いた。昨日予告した通り、本稿からは新しい区切りに入り、この型を介護の現場に寄せて読む1回目として、ケア記録と申し送りの仕事を置く。ケア記録のたたき台や介護保険の加算要件との突き合わせ、申し送りメモの項目の整理は機械が速くそろえられる。しかし申し送りは、同じ「気づき」の1行が次のシフトの職員の、その人と過ごす時間の使い方を変える仕事で、この境目の切り方に、夜勤と日勤の間に立つ介護の現場はつまずいている。申し送りとは、シフトが変わる席で、次に入所されている方を預かる職員へ、その日の様子を渡す仕事のことだ。 今月の相談：90...]]></content>
+        <author>
+            <name>水原聡</name>
+        </author>
+        <published>2026-10-23T11:39:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google の Harness² を Mac で動かしてみた | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/takuh/articles/129015e2544792</id>
+        <link href="https://zenn.dev/takuh/articles/129015e2544792"/>
+        <updated>2026-10-23T10:52:58.000Z</updated>
+        <summary type="html"><![CDATA[はじめにClaude Code や Codex のような AI エージェントを仕事で使っていると、同じモデルなのに「指示文を1行足しただけで急にうまくいく」「スキルを1つ作ったら失敗が消えた」という経験をよくします。モデルの性能だけでなく、モデルの周りに置く道具立てが結果を大きく左右するからです。この道具立てを、最近は ハーネス（harness） と呼びます。システムプロンプト、守るべき決まり、ス]]></summary>
+        <content type="html"><![CDATA[はじめにClaude Code や Codex のような AI エージェントを仕事で使っていると、同じモデルなのに「指示文を1行足しただけで急にうまくいく」「スキルを1つ作ったら失敗が消えた」という経験をよくします。モデルの性能だけでなく、モデルの周りに置く道具立てが結果を大きく左右するからです。この道具立てを、最近は ハーネス（harness） と呼びます。システムプロンプト、守るべき決まり、スキル、補助スクリプト、サブエージェントなど、モデルを「仕事ができるエージェント」にするための仕組み全体のことです。ただ、ハーネスの調整はたいてい人の手仕事です。失敗した実行ログを読み...]]></content>
+        <author>
+            <name>takuh</name>
+        </author>
+        <published>2026-10-23T10:52:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI鑑識学をつくる — 開発の試行錯誤とv5への変遷 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/git_dungeon/books/kanshiki-development</id>
+        <link href="https://zenn.dev/git_dungeon/books/kanshiki-development"/>
+        <updated>2026-10-23T10:45:32.000Z</updated>
+        <summary type="html"><![CDATA[文章を読んだときの違和感を、どのように確かめられる観察へ変えていくか。特徴の収集、関係と機能の記録、保留の設計、v5.1・v5.2の実装と引用の失敗までをたどる開発ノート。現在も続く開発の途中経過を、具体例から読み解きます。]]></summary>
+        <content type="html"><![CDATA[文章を読んだときの違和感を、どのように確かめられる観察へ変えていくか。特徴の収集、関係と機能の記録、保留の設計、v5.1・v5.2の実装と引用の失敗までをたどる開発ノート。現在も続く開発の途中経過を、具体例から読み解きます。]]></content>
+        <author>
+            <name>黒パグ｜攻略本シリーズ</name>
+        </author>
+        <published>2026-10-23T10:45:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サイバー攻撃AIツール「ARTEX」とは　中国政府と連携する攻撃者も使用、各国で悪用確認 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/</id>
+        <link href="https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/"/>
+        <updated>2026-10-23T08:37:57.000Z</updated>
+        <summary type="html"><![CDATA[中国語話者の開発者が「学習と研究目的」で公開したAI自律型侵入テストツール「ARTEX」。MicrosoftやCrowdStrikeが悪用例を報告し、日本企業約20社への攻撃にも使われた。作者は公開を停止したが、改変版が増殖している。]]></summary>
+        <content type="html"><![CDATA[中国語話者の開発者が「学習と研究目的」で公開したAI自律型侵入テストツール「ARTEX」。MicrosoftやCrowdStrikeが悪用例を報告し、日本企業約20社への攻撃にも使われた。作者は公開を停止したが、改変版が増殖している。]]></content>
+        <published>2026-10-23T08:37:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コードと仕組みで学ぶPython機械学習 — データ操作・評価・予測アプリ | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/windingroad_dev/books/307e68672fb04e</id>
+        <link href="https://zenn.dev/windingroad_dev/books/307e68672fb04e"/>
+        <updated>2026-10-23T07:42:09.000Z</updated>
+        <summary type="html"><![CDATA[教材のコードを、自分で説明し、変更できるようになりたい方へ。NumPy・pandas・Matplotlibの操作を、小さな配列や表の入出力から読み解きます。前処理・学習・評価・改善を順につなぎ、Titanicの生存予測をStreamlitアプリとして動かします。関数の引数や戻り値、評価指標の意味、データリークを防ぐ処理まで、コードと理由を対応づけて学びます。Pythonの基本構文を知り、教材を実行]]></summary>
+        <content type="html"><![CDATA[教材のコードを、自分で説明し、変更できるようになりたい方へ。NumPy・pandas・Matplotlibの操作を、小さな配列や表の入出力から読み解きます。前処理・学習・評価・改善を順につなぎ、Titanicの生存予測をStreamlitアプリとして動かします。関数の引数や戻り値、評価指標の意味、データリークを防ぐ処理まで、コードと理由を対応づけて学びます。Pythonの基本構文を知り、教材を実行した経験がある方を対象に、表データの予測処理を説明・変更・再評価できることを目指します。]]></content>
+        <author>
+            <name>二留年坊主エンジニア</name>
+        </author>
+        <published>2026-10-23T07:42:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「エージェント向け1Password」発表　AIにパスワード渡さずアクセス権限付与可能に | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/</id>
+        <link href="https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/"/>
+        <updated>2026-10-23T06:24:45.000Z</updated>
+        <summary type="html"><![CDATA[1PasswordはAIエージェントにパスワードを渡さずにアクセス権限を付与できるサービス「1Password for Agents」を発表した。]]></summary>
+        <content type="html"><![CDATA[1PasswordはAIエージェントにパスワードを渡さずにアクセス権限を付与できるサービス「1Password for Agents」を発表した。]]></content>
+        <published>2026-10-23T06:24:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」　デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/article/2610/22/2000002518/</id>
+        <link href="https://www.itmedia.co.jp/aiplus/article/2610/22/2000002518/"/>
+        <updated>2026-10-23T05:05:53.000Z</updated>
+        <summary type="html"><![CDATA[チームみらいの党首、安野貴博氏はAIを使ったサイバー攻撃に「一刻も早く対策を講じるべき」と警鐘を鳴らした。]]></summary>
+        <content type="html"><![CDATA[チームみらいの党首、安野貴博氏はAIを使ったサイバー攻撃に「一刻も早く対策を講じるべき」と警鐘を鳴らした。]]></content>
+        <published>2026-10-23T05:05:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロンプトガチャはもう古い――「ハーネスの父」が明かす、AI駆動開発の極意 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html</id>
+        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html"/>
+        <updated>2026-10-23T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、AIエージェントによる開発をテーマにした解説動画「The Agent Factory」を要約した記事を公開した。Googleのエンジニアがエージェントハーネスの重要性を語っている。]]></summary>
+        <content type="html"><![CDATA[Googleは、AIエージェントによる開発をテーマにした解説動画「The Agent Factory」を要約した記事を公開した。Googleのエンジニアがエージェントハーネスの重要性を語っている。]]></content>
+        <published>2026-10-23T03:45:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“あいまいな指示”を入力されたAIは安全なコーディングができない？　香港科技大などが調査 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/23/2000002513/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/23/2000002513/"/>
+        <updated>2026-10-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る舞いをみせるかを調査した研究報告だ。]]></summary>
+        <content type="html"><![CDATA[香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る舞いをみせるかを調査した研究報告だ。]]></content>
+        <published>2026-10-23T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？ | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html"/>
+        <updated>2026-10-23T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[学習リソースの少ないCOBOLやFortranを、AIはどこまで扱えるのか。OpenAIは、20言語でデータベースエンジンを構築するテストで、新モデルの平均合格率が従来モデルの26.8％から87.4％に伸びたと発表した。では、既存のCOBOLプログラムを別の言語に書き換える評価では、どんな結果が出たのか。]]></summary>
+        <content type="html"><![CDATA[学習リソースの少ないCOBOLやFortranを、AIはどこまで扱えるのか。OpenAIは、20言語でデータベースエンジンを構築するテストで、新モデルの平均合格率が従来モデルの26.8％から87.4％に伸びたと発表した。では、既存のCOBOLプログラムを別の言語に書き換える評価では、どんな結果が出たのか。]]></content>
+        <published>2026-10-23T02:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機械学習の数式に強くなる定番書4選 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/makitech/articles/20261023_book_ref</id>
+        <link href="https://zenn.dev/makitech/articles/20261023_book_ref"/>
+        <updated>2026-10-23T00:03:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに自分が機械学習を初めて触ったとき、やっていたことは fit と predict を呼ぶだけだった。チュートリアルをなぞれば精度は出る。それで仕事になっている気になっていた。崩れたのは、本番データで精度が落ちた理由を聞かれた時だ。説明できなかった。特徴量を足したり木の深さを変えたりして数字は動くのに、なぜ動いたのかを言葉にできない。手順は覚えたが、手法の中身は空っぽだった。そこから、ブログ記]]></summary>
+        <content type="html"><![CDATA[はじめに自分が機械学習を初めて触ったとき、やっていたことは fit と predict を呼ぶだけだった。チュートリアルをなぞれば精度は出る。それで仕事になっている気になっていた。崩れたのは、本番データで精度が落ちた理由を聞かれた時だ。説明できなかった。特徴量を足したり木の深さを変えたりして数字は動くのに、なぜ動いたのかを言葉にできない。手順は覚えたが、手法の中身は空っぽだった。そこから、ブログ記事を読む時間を減らして分厚い本に振り替えた。遠回りに見えて、これが一番効いた。学習曲線の形を見て次の手が浮かぶようになったのは、ハイパーパラメータの一覧表を覚えたからではない。誤差がど...]]></content>
+        <author>
+            <name>maki_tech</name>
+        </author>
+        <published>2026-10-23T00:03:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機械学習の数式に強くなる定番書4選 | Zennの「ディープラーニング」のフィード]]></title>
+        <id>https://zenn.dev/makitech/articles/20261023_book_ref</id>
+        <link href="https://zenn.dev/makitech/articles/20261023_book_ref"/>
+        <updated>2026-10-23T00:03:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに自分が機械学習を初めて触ったとき、やっていたことは fit と predict を呼ぶだけだった。チュートリアルをなぞれば精度は出る。それで仕事になっている気になっていた。崩れたのは、本番データで精度が落ちた理由を聞かれた時だ。説明できなかった。特徴量を足したり木の深さを変えたりして数字は動くのに、なぜ動いたのかを言葉にできない。手順は覚えたが、手法の中身は空っぽだった。そこから、ブログ記]]></summary>
+        <content type="html"><![CDATA[はじめに自分が機械学習を初めて触ったとき、やっていたことは fit と predict を呼ぶだけだった。チュートリアルをなぞれば精度は出る。それで仕事になっている気になっていた。崩れたのは、本番データで精度が落ちた理由を聞かれた時だ。説明できなかった。特徴量を足したり木の深さを変えたりして数字は動くのに、なぜ動いたのかを言葉にできない。手順は覚えたが、手法の中身は空っぽだった。そこから、ブログ記事を読む時間を減らして分厚い本に振り替えた。遠回りに見えて、これが一番効いた。学習曲線の形を見て次の手が浮かぶようになったのは、ハイパーパラメータの一覧表を覚えたからではない。誤差がど...]]></content>
+        <author>
+            <name>maki_tech</name>
+        </author>
+        <published>2026-10-23T00:03:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html"/>
+        <updated>2026-10-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[生成AIが東大の入試問題で合格者最高点を上回った今、その能力はサイバー攻撃でも威力を発揮している。攻撃からシステムを守り切れない前提に立つとき、その被害を最小化するためにどうすべきか。]]></summary>
+        <content type="html"><![CDATA[生成AIが東大の入試問題で合格者最高点を上回った今、その能力はサイバー攻撃でも威力を発揮している。攻撃からシステムを守り切れない前提に立つとき、その被害を最小化するためにどうすべきか。]]></content>
+        <published>2026-10-22T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[広がる「国産AI」活用事例　PFNの「PLaMo」にみる“ハマりどころ” | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/article/2610/23/2000002368/</id>
+        <link href="https://www.itmedia.co.jp/aiplus/article/2610/23/2000002368/"/>
+        <updated>2026-10-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国産AI「PLaMo」はどこで・どう使われているのか。「CEATEC 2026」に出展したPreferred Networksに聞いた。]]></summary>
+        <content type="html"><![CDATA[国産AI「PLaMo」はどこで・どう使われているのか。「CEATEC 2026」に出展したPreferred Networksに聞いた。]]></content>
+        <published>2026-10-22T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与　Microsoftが警告 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/23/2000002531/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/23/2000002531/"/>
+        <updated>2026-10-22T22:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。]]></summary>
+        <content type="html"><![CDATA[Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。]]></content>
+        <published>2026-10-22T22:45:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[声で動く協働ロボット　フィジカルAIの検証ハードルを下げるパッケージ登場 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://monoist.itmedia.co.jp/mn/articles/2610/23/news021.html</id>
+        <link href="https://monoist.itmedia.co.jp/mn/articles/2610/23/news021.html"/>
+        <updated>2026-10-22T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[富士ソフトとダイドーは、協働ロボット向け「フィジカルAIスタートパッケージ」を共同で開発し、2027年1月から本格的に受注活動を開始する。]]></summary>
+        <content type="html"><![CDATA[富士ソフトとダイドーは、協働ロボット向け「フィジカルAIスタートパッケージ」を共同で開発し、2027年1月から本格的に受注活動を開始する。]]></content>
+        <published>2026-10-22T22:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell、公表4日前に悪用の試み　「公表日より前にさかのぼって調査を」とAmazon | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/23/2000002530/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/23/2000002530/"/>
+        <updated>2026-10-22T22:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Amazonの脅威調査チームは、PHPの緊急脆弱性「PHP2Shell」を悪用する試みを公表4日前にハニーポットで検知したと発表した。公開後は悪用が急拡大。AIによる攻撃コード作成の加速を指摘し、対応期限の時間単位での管理や公表前への調査遡及など前提の見直しを呼び掛けた。]]></summary>
+        <content type="html"><![CDATA[Amazonの脅威調査チームは、PHPの緊急脆弱性「PHP2Shell」を悪用する試みを公表4日前にハニーポットで検知したと発表した。公開後は悪用が急拡大。AIによる攻撃コード作成の加速を指摘し、対応期限の時間単位での管理や公表前への調査遡及など前提の見直しを呼び掛けた。]]></content>
+        <published>2026-10-22T22:03:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大田区、年1000時間の問い合わせを「AI電話」で削減できるか？　実証実験で見えた課題 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://kn.itmedia.co.jp/kn/article/2610/23/2000002529/</id>
+        <link href="https://kn.itmedia.co.jp/kn/article/2610/23/2000002529/"/>
+        <updated>2026-10-22T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「間違いが許されない」行政の現場で、AIによる電話対応の自動化は実現できるのか。大田区はスタートアップ企業と協業してAI電話自動応答サービスの実証実験を進めている。自治体のAI電話対応における難所はどこにあるのか。初年度の取り組みから見えてきたリアルな運用課題と、そこから導き出した突破口に迫る。]]></summary>
+        <content type="html"><![CDATA[「間違いが許されない」行政の現場で、AIによる電話対応の自動化は実現できるのか。大田区はスタートアップ企業と協業してAI電話自動応答サービスの実証実験を進めている。自治体のAI電話対応における難所はどこにあるのか。初年度の取り組みから見えてきたリアルな運用課題と、そこから導き出した突破口に迫る。]]></content>
+        <published>2026-10-22T22:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小は大を兼ねる…!? SLM（小規模言語モデル）の有用性 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/akisayo/articles/small-language-models</id>
+        <link href="https://zenn.dev/akisayo/articles/small-language-models"/>
+        <updated>2026-10-22T20:52:11.000Z</updated>
+        <summary type="html"><![CDATA[「大は小を兼ねる」ということわざがあります。大きなものは小さなものの代わりにもなる。確かにその通りです。では、AIの世界でもそうでしょうか？ChatGPTをはじめとする大規模言語モデル（LLM）は、文章作成からプログラミング、数学、研究支援まで、さまざまなタスクをこなせるようになりました。でも、ちょっと想像してみてください。世界トップクラスの頭脳を持つ博士に、毎日ひたすらメールの仕分けをお願いする]]></summary>
+        <content type="html"><![CDATA[「大は小を兼ねる」ということわざがあります。大きなものは小さなものの代わりにもなる。確かにその通りです。では、AIの世界でもそうでしょうか？ChatGPTをはじめとする大規模言語モデル（LLM）は、文章作成からプログラミング、数学、研究支援まで、さまざまなタスクをこなせるようになりました。でも、ちょっと想像してみてください。世界トップクラスの頭脳を持つ博士に、毎日ひたすらメールの仕分けをお願いするとしたら？もちろん博士は仕事をこなしてくれるでしょう。でも、仕事の内容に対して、ちょっと贅沢すぎませんか？実はAI開発でも、似たようなことが起こります。複雑な推論や高度な知識が必要...]]></content>
+        <author>
+            <name>Sayoko Akiike</name>
+        </author>
+        <published>2026-10-22T20:52:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Python実装】VAEのデコーダから潜在空間の幾何を読み解く ── ヤコビアンとリーマン計量（Pullback Metric）による距離の歪みの定量化 | DeepLearningタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/etale_cohomology/items/7f787b492b5c7d92116c</id>
+        <link href="https://qiita.com/etale_cohomology/items/7f787b492b5c7d92116c"/>
+        <updated>2026-10-22T15:51:11.000Z</updated>
+        <summary type="html"><![CDATA[記事の要約AIが作った「データの地図（潜在空間）」をそのまま信じていませんか？本記事では、潜在空間に潜む「歪み」を数学的に正し、現実のデータ変化に即した真の最短ルートを算出する 「リーマン計量」 の実装を解説します。「地図上の直線が実は遠回り」というユークリッドの罠...]]></summary>
+        <content type="html"><![CDATA[記事の要約AIが作った「データの地図（潜在空間）」をそのまま信じていませんか？本記事では、潜在空間に潜む「歪み」を数学的に正し、現実のデータ変化に即した真の最短ルートを算出する 「リーマン計量」 の実装を解説します。「地図上の直線が実は遠回り」というユークリッドの罠...]]></content>
+        <published>2026-10-22T15:51:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【scikit-learn入門 #4】分類入門 ─ ロジスティック回帰とk近傍法（KNN） | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/haruhiro1020/articles/ab521f1e85b2aa</id>
+        <link href="https://zenn.dev/haruhiro1020/articles/ab521f1e85b2aa"/>
+        <updated>2026-10-22T13:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに本記事は「Pythonで機械学習を行うscikit-learn入門」シリーズの第4回です．第3回では「数値を予測する」回帰 を学びました．第4回では「カテゴリ（種類）を予測する」分類（Classification） を扱います．分類は，「このメールは迷惑メールか」「この花はどの品種か」のように，答えが種類（ラベル）になる 問題です．身近で応用範囲が広いテーマです．私のscikit-lear]]></summary>
+        <content type="html"><![CDATA[はじめに本記事は「Pythonで機械学習を行うscikit-learn入門」シリーズの第4回です．第3回では「数値を予測する」回帰 を学びました．第4回では「カテゴリ（種類）を予測する」分類（Classification） を扱います．分類は，「このメールは迷惑メールか」「この花はどの品種か」のように，答えが種類（ラベル）になる 問題です．身近で応用範囲が広いテーマです．私のscikit-learnライブラリのバージョンは "1.5.2" です． 本シリーズの構成シリーズ構成予定（全11記事）インストール 〜 機械学習の全体像（fit / predict）デー...]]></content>
+        <author>
+            <name>haruhiro1020</name>
+        </author>
+        <published>2026-10-22T13:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[変更は一つだけ。元のモデルと同じ条件で比べる | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/data_boatrace/articles/58260a194b93ff</id>
+        <link href="https://zenn.dev/data_boatrace/articles/58260a194b93ff"/>
+        <updated>2026-10-22T11:43:02.000Z</updated>
+        <summary type="html"><![CDATA[前回「モデルを変える前に、検証台帳を1行書く」では、モーター2連率だけを外す比較計画を保存しました。今回はその計画を使って、実際に学習と比較を行います。結果は、選択が67レースで変わり、比較モデルの紙上差引が元モデルより3,290円悪くなりました。改善しなかったからといって、別の設定へ差し替えません。何を変えて、どの条件で何が起きたかを残すことが、今回の成果です。 モデルを二つ、同じ条件で作る学習]]></summary>
+        <content type="html"><![CDATA[前回「モデルを変える前に、検証台帳を1行書く」では、モーター2連率だけを外す比較計画を保存しました。今回はその計画を使って、実際に学習と比較を行います。結果は、選択が67レースで変わり、比較モデルの紙上差引が元モデルより3,290円悪くなりました。改善しなかったからといって、別の設定へ差し替えません。何を変えて、どの条件で何が起きたかを残すことが、今回の成果です。 モデルを二つ、同じ条件で作る学習には、第3回と同じ2026年1月1〜5日の916レースを使います。評価は第7回で精算できるようにした1月8〜14日の1,164レースです。元モデル：艇番、全国勝率、当地勝率、モータ...]]></content>
+        <author>
+            <name>データで見るボートレース</name>
+        </author>
+        <published>2026-10-22T11:43:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPUだけのIndra OCRを日本語で測る：遅さの正体は出力層 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/mskbhd/articles/lab-1117-indra-ocr-1mcpu</id>
+        <link href="https://zenn.dev/mskbhd/articles/lab-1117-indra-ocr-1mcpu"/>
+        <updated>2026-10-22T10:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Datalab が出した OCR「Indra OCR」は、認識モデルが約 1M パラメータで、ONNX Runtime を使って CPU だけで動きます。PyTorch も GPU も要りません。公称速度は 4 コアで 6.2 ページ/秒、32 コアで 44 ページ/秒です（発表時のツイートでは 7.3 / 49.4）。日本語にも対応しているので、手元の非力な Linux 機で日本語の精度と速度を]]></summary>
+        <content type="html"><![CDATA[Datalab が出した OCR「Indra OCR」は、認識モデルが約 1M パラメータで、ONNX Runtime を使って CPU だけで動きます。PyTorch も GPU も要りません。公称速度は 4 コアで 6.2 ページ/秒、32 コアで 44 ページ/秒です（発表時のツイートでは 7.3 / 49.4）。日本語にも対応しているので、手元の非力な Linux 機で日本語の精度と速度を測りました。結論を先に書きます。日本語のきれいな横書き印刷物（200dpi）は 文字一致率 99.7%。Tesseract（98.5%）より良い速度は 4 コアで 0.44 ページ/秒。...]]></content>
+        <author>
+            <name>mskbhd</name>
+        </author>
+        <published>2026-10-22T10:45:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18-⑤その1 Kaggle実践3 Biohub細胞トラッキング：2位の解法まとめ | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/rg687076/articles/8d1917f9931396</id>
+        <link href="https://zenn.dev/rg687076/articles/8d1917f9931396"/>
+        <updated>2026-10-22T10:07:09.000Z</updated>
+        <summary type="html"><![CDATA[18-①Kaggle実践3 Biohub細胞トラッキング：環境構築から初回提出までの手順18-②Kaggle実践3 Biohub細胞トラッキング：初回提出コードを解説してみた18-③Kaggle実践3 Biohub細胞トラッキング：ローカル環境を構築してみた(交差検証(CV)込み)18-④Kaggle実践3 Biohub細胞トラッキング：3D U-Netの壁とCV微増(0.4483→0.4578)]]></summary>
+        <content type="html"><![CDATA[18-①Kaggle実践3 Biohub細胞トラッキング：環境構築から初回提出までの手順18-②Kaggle実践3 Biohub細胞トラッキング：初回提出コードを解説してみた18-③Kaggle実践3 Biohub細胞トラッキング：ローカル環境を構築してみた(交差検証(CV)込み)18-④Kaggle実践3 Biohub細胞トラッキング：3D U-Netの壁とCV微増(0.4483→0.4578)の現実(この記事)18-⑤その1 Kaggle実践3 Biohub細胞トラッキング：2位の解法まとめ(この記事)18-⑤その2 Kaggle実践3 Biohub細胞トラッキング：2位の...]]></content>
+        <author>
+            <name>kito2718</name>
+        </author>
+        <published>2026-10-22T10:07:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手のひらサイズの“宇宙AIデータセンター”？　JAXA後押しの国内新興が実現目指す　南極・高山での利用も視野 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/22/2000002510/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/22/2000002510/"/>
+        <updated>2026-10-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[宇宙で取得したデータをその場で小型のAIに処理させ、軽量化してから地上に下ろす──という仕組みの実現を目指す日本初ベンチャー、技術開発の進捗は。]]></summary>
+        <content type="html"><![CDATA[宇宙で取得したデータをその場で小型のAIに処理させ、軽量化してから地上に下ろす──という仕組みの実現を目指す日本初ベンチャー、技術開発の進捗は。]]></content>
+        <published>2026-10-22T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「長い目で見れば防御側が有利」はなぜ？　守る側のAI活用法、本命は　Webセキュリティ専門家に聞く | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/article/2610/22/2000002521/</id>
+        <link href="https://www.itmedia.co.jp/aiplus/article/2610/22/2000002521/"/>
+        <updated>2026-10-22T08:13:05.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントによるWebサイト攻撃を観測したビットフォレスト。同社のWAF開発責任者は「AIは新しい攻撃ジャンルを生んでいない」と語る。守る側のAI活用の本命と「防御側が有利」の理由を聞いた。]]></summary>
+        <content type="html"><![CDATA[AIエージェントによるWebサイト攻撃を観測したビットフォレスト。同社のWAF開発責任者は「AIは新しい攻撃ジャンルを生んでいない」と語る。守る側のAI活用の本命と「防御側が有利」の理由を聞いた。]]></content>
+        <published>2026-10-22T08:13:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“緊急メンテの夜”までの一部始終は？　8月にAIで「PHPの重大な脆弱性」発見→OpenAIが即応チームを招集 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2610/22/news053.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2610/22/news053.html"/>
+        <updated>2026-10-22T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[10月21日夜に始まった企業の「緊急メンテナンス」。その原因である「PHPの脆弱性」を発見したのは、OpenAIのAIモデルだった。一連の出来事について時系列を追う。]]></summary>
+        <content type="html"><![CDATA[10月21日夜に始まった企業の「緊急メンテナンス」。その原因である「PHPの脆弱性」を発見したのは、OpenAIのAIモデルだった。一連の出来事について時系列を追う。]]></content>
+        <published>2026-10-22T04:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開　OpenSSHの修正にも貢献 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/22/2000002498/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/22/2000002498/"/>
+        <updated>2026-10-22T02:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Anthropicは、AIモデル「Claude」でソフトウェアの攻撃対象領域を分析・縮小する研究結果を公開した。オープンソース25件を分析し、設定矛盾など493件の問題を特定。「OpenSSH」では、認証前に到達可能なコードを約5分の1削減し、最新版に対策が反映された。手法は脆弱性検出サービス「OSS Scanner」に組み込まれる。]]></summary>
+        <content type="html"><![CDATA[Anthropicは、AIモデル「Claude」でソフトウェアの攻撃対象領域を分析・縮小する研究結果を公開した。オープンソース25件を分析し、設定矛盾など493件の問題を特定。「OpenSSH」では、認証前に到達可能なコードを約5分の1削減し、最新版に対策が反映された。手法は脆弱性検出サービス「OSS Scanner」に組み込まれる。]]></content>
+        <published>2026-10-22T02:48:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漢検運営が「AIで生成」画像で漢字ミス→謝罪　「これを出そうって神経が分からない」の声も | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/article/2610/22/2000002494/</id>
+        <link href="https://www.itmedia.co.jp/aiplus/article/2610/22/2000002494/"/>
+        <updated>2026-10-22T02:32:44.000Z</updated>
+        <summary type="html"><![CDATA[日本漢字能力検定協会は、公式Xで投稿したAI生成とみられる画像について「誤字があった」と謝罪した。同画像を巡っては、Xユーザーから誤りの指摘が相次いでいた。]]></summary>
+        <content type="html"><![CDATA[日本漢字能力検定協会は、公式Xで投稿したAI生成とみられる画像について「誤字があった」と謝罪した。同画像を巡っては、Xユーザーから誤りの指摘が相次いでいた。]]></content>
+        <published>2026-10-22T02:32:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【書評】 動かして学ぶAI・機械学習の基礎 ―TensorFlowによるコンピュータビジョン、自然言語処理、時系列データの予測とデプロイ | DeepLearningタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/io0323/items/2910956245b3f052fa49</id>
+        <link href="https://qiita.com/io0323/items/2910956245b3f052fa49"/>
+        <updated>2026-10-21T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[はじめに今回は、Laurence Moroney 著・菊池彰 訳『動かして学ぶAI・機械学習の基礎』を読んだ感想と、全20章の要点をまとめます。原題は AI and Machine Learning for Coders で、日本語版は2022年にオライリー・ジャパン...]]></summary>
+        <content type="html"><![CDATA[はじめに今回は、Laurence Moroney 著・菊池彰 訳『動かして学ぶAI・機械学習の基礎』を読んだ感想と、全20章の要点をまとめます。原題は AI and Machine Learning for Coders で、日本語版は2022年にオライリー・ジャパン...]]></content>
+        <published>2026-10-21T15:00:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融K線専用の基盤モデルKronosにBTC/USDTの値動きを予測させてみた | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/matsushima_a/articles/day-022-kronos-btc-price-forecast</id>
+        <link href="https://zenn.dev/matsushima_a/articles/day-022-kronos-btc-price-forecast"/>
+        <updated>2026-10-21T13:56:07.000Z</updated>
+        <summary type="html"><![CDATA[AAAI 2026に採択された金融ローソク足(K線)専用の基盤モデル「Kronos」を、実際にBTC/USDTの1時間足データで動かし、予測結果を実際の値動きと突き合わせてみた。結論から言うと、CPUだけでも十分実用的な速度で動く一方、方向性(上がるか下がるか)の予測力については、今回の検証範囲ではコイン投げ程度にとどまった。 Kronosとは何かKronosは、世界45取引所・120億件超のK線]]></summary>
+        <content type="html"><![CDATA[AAAI 2026に採択された金融ローソク足(K線)専用の基盤モデル「Kronos」を、実際にBTC/USDTの1時間足データで動かし、予測結果を実際の値動きと突き合わせてみた。結論から言うと、CPUだけでも十分実用的な速度で動く一方、方向性(上がるか下がるか)の予測力については、今回の検証範囲ではコイン投げ程度にとどまった。 Kronosとは何かKronosは、世界45取引所・120億件超のK線(OHLCV)データで事前学習した、金融ローソク足専用の基盤モデルである(論文、MIT License)。専用トークナイザがOHLCVを階層的な離散トークンに変換し、自己回帰Transfo...]]></content>
+        <author>
+            <name>matsu</name>
+        </author>
+        <published>2026-10-21T13:56:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MD(Decoupling the Magnitude and Direction of Weight Vectors) の紹介 | DeepLearningタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/hasebirokou/items/b876e58d96327a878ee5</id>
+        <link href="https://qiita.com/hasebirokou/items/b876e58d96327a878ee5"/>
+        <updated>2026-10-21T12:22:20.000Z</updated>
+        <summary type="html"><![CDATA[はじめにMD(Decoupling the Magnitude and Direction of Weight Vectors) の紹介を行います。最初に注意点として、私が持っている問題意識から手法を検討したところ、すでにその問題を解決する手法が提案されていたという流...]]></summary>
+        <content type="html"><![CDATA[はじめにMD(Decoupling the Magnitude and Direction of Weight Vectors) の紹介を行います。最初に注意点として、私が持っている問題意識から手法を検討したところ、すでにその問題を解決する手法が提案されていたという流...]]></content>
+        <published>2026-10-21T12:22:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Residual Learning for Image Recognition (ResNet) 論文解説 | DeepLearningタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/PhenylPropion/items/505b38e0bc987ca4c86c</id>
+        <link href="https://qiita.com/PhenylPropion/items/505b38e0bc987ca4c86c"/>
+        <updated>2026-10-21T10:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Deep Residual Learning for Image Recognition(He, Zhang, Ren, Sun / Microsoft Research)の解説です。前提として、線形代数(行列とベクトルの積)と微分(合成関数の微分)を知っていれば読めるよ...]]></summary>
+        <content type="html"><![CDATA[Deep Residual Learning for Image Recognition(He, Zhang, Ren, Sun / Microsoft Research)の解説です。前提として、線形代数(行列とベクトルの積)と微分(合成関数の微分)を知っていれば読めるよ...]]></content>
+        <published>2026-10-21T10:08:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code から GPU を借りて学習ジョブを回す（Runcrate MCP サーバー） | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/runcrate/articles/c9a383739c3856</id>
+        <link href="https://zenn.dev/runcrate/articles/c9a383739c3856"/>
+        <updated>2026-10-21T00:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Runcrate を開発しているチームです。Runcrate は AI 開発者と、その人たちが動かす AI エージェントのための GPU クラウドです。この記事では、Claude Code や Codex、Cursor から MCP サーバー経由で GPU を借りて、学習や評価のコマンドを実行する手順を紹介します。 Runcrate でできることGPU インスタンス: H100、H200、A100]]></summary>
+        <content type="html"><![CDATA[Runcrate を開発しているチームです。Runcrate は AI 開発者と、その人たちが動かす AI エージェントのための GPU クラウドです。この記事では、Claude Code や Codex、Cursor から MCP サーバー経由で GPU を借りて、学習や評価のコマンドを実行する手順を紹介します。 Runcrate でできることGPU インスタンス: H100、H200、A100、L40S、RTX 4090 など 20 種類以上の GPU を時間単位で借りられます。SSH、Jupyter、ブラウザ上の VS Code が使えます。ジョブ: コマンドを 1 ...]]></content>
+        <author>
+            <name>Runcrate</name>
+        </author>
+        <published>2026-10-21T00:57:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python機械学習の実践書4選 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/soraml/articles/20261021_book_ref</id>
+        <link href="https://zenn.dev/soraml/articles/20261021_book_ref"/>
+        <updated>2026-10-21T00:03:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめに数年前、初めて一人で任された分析案件のことをよく覚えている。pandas でCSVを読み込み、適当にモデルを回し、交差検証のスコアが良かったのでそのまま報告した。本番データに差し替えた途端、精度は半分近くまで落ちた。原因は前処理のリークと、そもそも評価設計の雑さだった。このとき痛感したのは、知識の量よりも学ぶ順番だった。自分は機械学習のアルゴリズムの名前はいくつも言えたのに、生データを扱う]]></summary>
+        <content type="html"><![CDATA[はじめに数年前、初めて一人で任された分析案件のことをよく覚えている。pandas でCSVを読み込み、適当にモデルを回し、交差検証のスコアが良かったのでそのまま報告した。本番データに差し替えた途端、精度は半分近くまで落ちた。原因は前処理のリークと、そもそも評価設計の雑さだった。このとき痛感したのは、知識の量よりも学ぶ順番だった。自分は機械学習のアルゴリズムの名前はいくつも言えたのに、生データを扱う足腰と、モデルを検証する作法がすっぽり抜けていた。ライブラリのAPIリファレンスを読んでも、その穴は埋まらない。そこから意識を変えて、手を動かしながら読める本を選ぶようにした。理論の名...]]></content>
+        <author>
+            <name>soraml</name>
+        </author>
+        <published>2026-10-21T00:03:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python機械学習の実践書4選 | Zennの「ディープラーニング」のフィード]]></title>
+        <id>https://zenn.dev/soraml/articles/20261021_book_ref</id>
+        <link href="https://zenn.dev/soraml/articles/20261021_book_ref"/>
+        <updated>2026-10-21T00:03:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめに数年前、初めて一人で任された分析案件のことをよく覚えている。pandas でCSVを読み込み、適当にモデルを回し、交差検証のスコアが良かったのでそのまま報告した。本番データに差し替えた途端、精度は半分近くまで落ちた。原因は前処理のリークと、そもそも評価設計の雑さだった。このとき痛感したのは、知識の量よりも学ぶ順番だった。自分は機械学習のアルゴリズムの名前はいくつも言えたのに、生データを扱う]]></summary>
+        <content type="html"><![CDATA[はじめに数年前、初めて一人で任された分析案件のことをよく覚えている。pandas でCSVを読み込み、適当にモデルを回し、交差検証のスコアが良かったのでそのまま報告した。本番データに差し替えた途端、精度は半分近くまで落ちた。原因は前処理のリークと、そもそも評価設計の雑さだった。このとき痛感したのは、知識の量よりも学ぶ順番だった。自分は機械学習のアルゴリズムの名前はいくつも言えたのに、生データを扱う足腰と、モデルを検証する作法がすっぽり抜けていた。ライブラリのAPIリファレンスを読んでも、その穴は埋まらない。そこから意識を変えて、手を動かしながら読める本を選ぶようにした。理論の名...]]></content>
+        <author>
+            <name>soraml</name>
+        </author>
+        <published>2026-10-21T00:03:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONNXによる高速化検証 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/hoshinagi1219/articles/d9fd5f7ceff454</id>
+        <link href="https://zenn.dev/hoshinagi1219/articles/d9fd5f7ceff454"/>
+        <updated>2026-10-20T23:00:06.000Z</updated>
+        <summary type="html"><![CDATA[星杜なぎさです。タイトルの通りONNXに変換すると、実際どのくらい早くなるのかなぁと思って実際に計測した記録を残してみました。 1. ONNXとは？ONNX（Open Neural Network Exchange）とは、機械学習やディープラーニングのモデルを異なるフレームワーク間で共通して扱うためのオープンソースの標準フォーマットKerasやtensorflow, PyTorchなどのモデルをo]]></summary>
+        <content type="html"><![CDATA[星杜なぎさです。タイトルの通りONNXに変換すると、実際どのくらい早くなるのかなぁと思って実際に計測した記録を残してみました。 1. ONNXとは？ONNX（Open Neural Network Exchange）とは、機械学習やディープラーニングのモデルを異なるフレームワーク間で共通して扱うためのオープンソースの標準フォーマットKerasやtensorflow, PyTorchなどのモデルをonnx形式に変換し、推論を高速化することができる実はscikit-learnやxgboostライブラリの高速化もできるhttps://onnx.ai/get-started.h...]]></content>
+        <author>
+            <name>星杜なぎさ（Nagisa Hoshimori）</name>
+        </author>
+        <published>2026-10-20T23:00:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人開発の自律型AIヘッジファンドが、世界最大の『awesome-quant（⭐️15,000+）』に公式採択されるまでの全記録 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/prompter_note/articles/f2f1f9ed0b8edf</id>
+        <link href="https://zenn.dev/prompter_note/articles/f2f1f9ed0b8edf"/>
+        <updated>2026-10-20T12:21:50.000Z</updated>
+        <summary type="html"><![CDATA[はじめに：世界最大のクアント投資リソース集にマージされた日2026年10月、個人で開発・オープンソース公開（CC BY-NC 4.0）している自律型AIヘッジファンドエンジン**『Lumina Capital (v6.0)』が、GitHub上で世界最大の金融工学・アルゴリズム取引リソース集であるwilsonfreitas/awesome-quant（GitHub Star 15,000+）の公式「]]></summary>
+        <content type="html"><![CDATA[はじめに：世界最大のクアント投資リソース集にマージされた日2026年10月、個人で開発・オープンソース公開（CC BY-NC 4.0）している自律型AIヘッジファンドエンジン**『Lumina Capital (v6.0)』が、GitHub上で世界最大の金融工学・アルゴリズム取引リソース集であるwilsonfreitas/awesome-quant（GitHub Star 15,000+）の公式「Trading &amp;amp; Backtesting」部門に正式採択・マージ**されました。 Backtrader、Zipline、Microsoft Qlib といった世界の名だた...]]></content>
+        <author>
+            <name>prompter_note</name>
+        </author>
+        <published>2026-10-20T12:21:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18-⑤その2 Kaggle実践3 Biohub細胞トラッキング：2位の解法まとめ | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/rg687076/articles/bc95962949497c</id>
+        <link href="https://zenn.dev/rg687076/articles/bc95962949497c"/>
+        <updated>2026-10-20T11:09:12.000Z</updated>
+        <summary type="html"><![CDATA[18-①Kaggle実践3 Biohub細胞トラッキング：環境構築から初回提出までの手順18-②Kaggle実践3 Biohub細胞トラッキング：初回提出コードを解説してみた18-③Kaggle実践3 Biohub細胞トラッキング：ローカル環境を構築してみた(交差検証(CV)込み)18-④Kaggle実践3 Biohub細胞トラッキング：3D U-Netの壁とCV微増(0.4483→0.4578)]]></summary>
+        <content type="html"><![CDATA[18-①Kaggle実践3 Biohub細胞トラッキング：環境構築から初回提出までの手順18-②Kaggle実践3 Biohub細胞トラッキング：初回提出コードを解説してみた18-③Kaggle実践3 Biohub細胞トラッキング：ローカル環境を構築してみた(交差検証(CV)込み)18-④Kaggle実践3 Biohub細胞トラッキング：3D U-Netの壁とCV微増(0.4483→0.4578)の現実(この記事)18-⑤その1 Kaggle実践3 Biohub細胞トラッキング：2位の解法まとめ18-⑤その2 Kaggle実践3 Biohub細胞トラッキング：2位の解法まとめ(...]]></content>
+        <author>
+            <name>kito2718</name>
+        </author>
+        <published>2026-10-20T11:09:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RecSys 2026 参加レポート：Generative Recommendation の進展と潜在的な興味の発見 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/dmmdata/articles/recsys-2026-report</id>
+        <link href="https://zenn.dev/dmmdata/articles/recsys-2026-report"/>
+        <updated>2026-10-20T07:59:15.000Z</updated>
+        <summary type="html"><![CDATA[はじめにDMM.com のデータサイエンス&amp;amp;AIグループで、レコメンドの開発を担当している田中、菊谷、土岐です。先日ミネアポリスで開催された RecSys 2026 (20th ACM Conference on Recommender Systems) に参加してきました。本記事では、メンバーが聴講した中で印象に残った内容と、今後の DMM の推薦でどう活かしたいかについて紹介していきます。また]]></summary>
+        <content type="html"><![CDATA[はじめにDMM.com のデータサイエンス&amp;amp;AIグループで、レコメンドの開発を担当している田中、菊谷、土岐です。先日ミネアポリスで開催された RecSys 2026 (20th ACM Conference on Recommender Systems) に参加してきました。本記事では、メンバーが聴講した中で印象に残った内容と、今後の DMM の推薦でどう活かしたいかについて紹介していきます。また別記事では、同チームの寺井が RecSys Challenge Workshop で論文発表した参加記を書いているので、ぜひチェックしてみてください。発表は、対話型音楽推薦...]]></content>
+        <author>
+            <name>珠響そうき_えてみなる</name>
+        </author>
+        <published>2026-10-20T07:59:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに「仕事の進め方」を教える──Qwen3.8-27B-piの学習設計 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/acrosstudioblog/articles/b9851ff78afeb1</id>
+        <link href="https://zenn.dev/acrosstudioblog/articles/b9851ff78afeb1"/>
+        <updated>2026-10-20T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[!ざっくり3行で言うと、Qwen3.8-27B-piは、特定のAgent harnessで仕事を進めるために調整したモデル成功した作業履歴をSFTで学び、RLでは正しさを優先しながらeffortごとの思考量を整える参考になるのはモデルの調整だけでなく、学習タスクと採点器も改善していること はじめに：lowの方が余計に考えていた推論の設定にlow、medium、xhighと並んでいたら、lowは軽く]]></summary>
+        <content type="html"><![CDATA[!ざっくり3行で言うと、Qwen3.8-27B-piは、特定のAgent harnessで仕事を進めるために調整したモデル成功した作業履歴をSFTで学び、RLでは正しさを優先しながらeffortごとの思考量を整える参考になるのはモデルの調整だけでなく、学習タスクと採点器も改善していること はじめに：lowの方が余計に考えていた推論の設定にlow、medium、xhighと並んでいたら、lowは軽く、xhighはじっくり考えるものだと思います。ところが、モデルがその順に動くとは限りません。bytkim氏のQwen3.8-27B-pi学習レポートでは、調整前のモデルを...]]></content>
+        <author>
+            <name>シンウフム(wooheum xin)</name>
+        </author>
+        <published>2026-10-20T03:02:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMは「大きくする」だけじゃない──同じ層を回すLooped Transformer入門 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/acrosstudioblog/articles/895e38a8893223</id>
+        <link href="https://zenn.dev/acrosstudioblog/articles/895e38a8893223"/>
+        <updated>2026-10-20T02:36:33.000Z</updated>
+        <summary type="html"><![CDATA[!ざっくり3行で言うと、Looped Transformer は、同じ Transformer の層を何度も使って計算するモデルパラメータを増やさずに、計算上の深さを増やせる。ただし計算が無料になるわけではない面白いのは「何Bか」と「どれだけ計算するか」が、少しずつ別の話になっていること はじめに：NVIDIAも同じ層を繰り返すLLMの仕様を見るとき、まず目に入るのは「何Bか」です。3B、8B、7]]></summary>
+        <content type="html"><![CDATA[!ざっくり3行で言うと、Looped Transformer は、同じ Transformer の層を何度も使って計算するモデルパラメータを増やさずに、計算上の深さを増やせる。ただし計算が無料になるわけではない面白いのは「何Bか」と「どれだけ計算するか」が、少しずつ別の話になっていること はじめに：NVIDIAも同じ層を繰り返すLLMの仕様を見るとき、まず目に入るのは「何Bか」です。3B、8B、70B。パラメータ数は分かりやすいし、モデルの規模を知る大事な手がかりでもある。ただ、その数字だけでは、モデルが答えを出すまでにどれだけ計算するのかは分かりません。2026...]]></content>
+        <author>
+            <name>シンウフム(wooheum xin)</name>
+        </author>
+        <published>2026-10-20T02:36:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMは「大きくする」だけじゃない──同じ層を回すLooped Transformer入門 | Zennの「ディープラーニング」のフィード]]></title>
+        <id>https://zenn.dev/acrosstudioblog/articles/895e38a8893223</id>
+        <link href="https://zenn.dev/acrosstudioblog/articles/895e38a8893223"/>
+        <updated>2026-10-20T02:36:33.000Z</updated>
+        <summary type="html"><![CDATA[!ざっくり3行で言うと、Looped Transformer は、同じ Transformer の層を何度も使って計算するモデルパラメータを増やさずに、計算上の深さを増やせる。ただし計算が無料になるわけではない面白いのは「何Bか」と「どれだけ計算するか」が、少しずつ別の話になっていること はじめに：NVIDIAも同じ層を繰り返すLLMの仕様を見るとき、まず目に入るのは「何Bか」です。3B、8B、7]]></summary>
+        <content type="html"><![CDATA[!ざっくり3行で言うと、Looped Transformer は、同じ Transformer の層を何度も使って計算するモデルパラメータを増やさずに、計算上の深さを増やせる。ただし計算が無料になるわけではない面白いのは「何Bか」と「どれだけ計算するか」が、少しずつ別の話になっていること はじめに：NVIDIAも同じ層を繰り返すLLMの仕様を見るとき、まず目に入るのは「何Bか」です。3B、8B、70B。パラメータ数は分かりやすいし、モデルの規模を知る大事な手がかりでもある。ただ、その数字だけでは、モデルが答えを出すまでにどれだけ計算するのかは分かりません。2026...]]></content>
+        <author>
+            <name>シンウフム(wooheum xin)</name>
+        </author>
+        <published>2026-10-20T02:36:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミニマックス法とは？ゲーム木探索の基本 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/h888s/articles/gtest-minimax</id>
+        <link href="https://zenn.dev/h888s/articles/gtest-minimax"/>
+        <updated>2026-10-20T00:54:47.000Z</updated>
+        <summary type="html"><![CDATA[G検定では、AIの探索アルゴリズムに関する基礎概念が問われます。本記事ではその代表例である「ミニマックス法」について、定義と具体例を整理して解説します。 ミニマックス法とはミニマックス法とは、二人零和ゲームで用いられるゲーム木探索アルゴリズムです。前提となる考え方はシンプルで、以下の2人のプレイヤーが交互に手を打つと仮定します。MAXプレイヤー（自分）: スコアを 最大化 しようとするMINプレイ]]></summary>
+        <content type="html"><![CDATA[G検定では、AIの探索アルゴリズムに関する基礎概念が問われます。本記事ではその代表例である「ミニマックス法」について、定義と具体例を整理して解説します。 ミニマックス法とはミニマックス法とは、二人零和ゲームで用いられるゲーム木探索アルゴリズムです。前提となる考え方はシンプルで、以下の2人のプレイヤーが交互に手を打つと仮定します。MAXプレイヤー（自分）: スコアを 最大化 しようとするMINプレイヤー（相手）: 常に最善手を打ち、スコアを 最小化 しようとするこの仮定のもとで、ゲーム木をたどり、自分にとって最適な手を選択するのがミニマックス法です。「相手も最善を尽く...]]></content>
+        <author>
+            <name>合格を、研究する。</name>
+        </author>
+        <published>2026-10-20T00:54:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 基礎① AI と ML・DL・LLM はそもそも何で、どういう関係性なのか | Zennの「ディープラーニング」のフィード]]></title>
+        <id>https://zenn.dev/luvmini511/articles/ai-ml-dl-llm-basics</id>
+        <link href="https://zenn.dev/luvmini511/articles/ai-ml-dl-llm-basics"/>
+        <updated>2026-10-18T08:07:03.000Z</updated>
+        <summary type="html"><![CDATA[🌼 はじめにこんにちは、みなさん AI 使ってますか？私ももう AI なしではやっていけない体になってしまいました。ですが、AI 関連でなんとなく知ってるようで実はあまりわかってないもの多いなーと思ったので、そのなんとなく AI 知識を一つずつ紐解いていく記事を書きたいと思いました。その1番目の記事として、そもそも AI と ML・DL・LLM はなにでどういう関係性なのかを話したいと思います。!]]></summary>
+        <content type="html"><![CDATA[🌼 はじめにこんにちは、みなさん AI 使ってますか？私ももう AI なしではやっていけない体になってしまいました。ですが、AI 関連でなんとなく知ってるようで実はあまりわかってないもの多いなーと思ったので、そのなんとなく AI 知識を一つずつ紐解いていく記事を書きたいと思いました。その1番目の記事として、そもそも AI と ML・DL・LLM はなにでどういう関係性なのかを話したいと思います。!この記事は、それぞれの技術が「何なのか」をざっくりイメージできるようになることを目的にしています。そのため、各技術の細かい種類や実装の話には触れていません。 1. AI (A...]]></content>
+        <author>
+            <name>みんちゃん</name>
+        </author>
+        <published>2026-10-18T08:07:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機械学習の独学で効いた技術書4選 | Zennの「ディープラーニング」のフィード]]></title>
+        <id>https://zenn.dev/komatsu_ops/articles/20261017_book_ref</id>
+        <link href="https://zenn.dev/komatsu_ops/articles/20261017_book_ref"/>
+        <updated>2026-10-17T00:03:48.000Z</updated>
+        <summary type="html"><![CDATA[はじめに数年前、社内のレコメンド改善を任されたときに自分は完全に手が止まった。ライブラリを呼べばモデルは学習できる。評価スコアも出る。なのに「なぜこの精度なのか」「この差は意味があるのか」を聞かれると何も答えられなかった。困ってWeb記事を漁った。断片は埋まる。ただ記事は前提をばっさり省くので、交差検証の切り方やp値の扱いといった土台の部分は、読んでも読んでも穴が残った。結局その穴は本で埋めるしか]]></summary>
+        <content type="html"><![CDATA[はじめに数年前、社内のレコメンド改善を任されたときに自分は完全に手が止まった。ライブラリを呼べばモデルは学習できる。評価スコアも出る。なのに「なぜこの精度なのか」「この差は意味があるのか」を聞かれると何も答えられなかった。困ってWeb記事を漁った。断片は埋まる。ただ記事は前提をばっさり省くので、交差検証の切り方やp値の扱いといった土台の部分は、読んでも読んでも穴が残った。結局その穴は本で埋めるしかなかった。もうひとつ厄介だったのが順番だ。最初に分厚い理論書へ突っ込んで3章で挫折し、逆に入門書だけを何冊も読んで実務では何も変わらない、という往復を繰り返した。全体像を薄い本で一周し...]]></content>
+        <author>
+            <name>komatsu</name>
+        </author>
+        <published>2026-10-17T00:03:48.000Z</published>
+    </entry>
+</feed>
